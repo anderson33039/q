@@ -1,0 +1,45 @@
+{
+  "title": "The Historical Development of Biotechnology 2025",
+  "questions": [
+    {
+      "question": "Which period is considered the earliest phase of biotechnology development?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Classical Biotechnology",
+        "Ancient Biotechnology",
+        "Modern Biotechnology",
+        "Postmodern Biotechnology"
+      ],
+      "correctAnswer": "Ancient Biotechnology"
+    },
+    {
+      "question": "The discovery of fermentation is credited to which ancient civilization?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": ["Egyptians", "Chinese", "Greeks", "Romans"],
+      "correctAnswer": "Chinese"
+    },
+    {
+      "question": "Modern biotechnology began with the discovery of DNA structure in 1953.",
+      "type": "TRUE_FALSE",
+      "points": 1,
+      "choices": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "question": "Ancient biotechnology primarily involved genetic engineering and cloning.",
+      "type": "TRUE_FALSE",
+      "points": 1,
+      "choices": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "question": "Discovered penicillin.",
+      "type": "SHORT_ANSWER",
+      "points": 1,
+      "correctAnswer": "Alexander Fleming"
+    }
+  ]
+}
+ 

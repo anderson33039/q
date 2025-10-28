@@ -1,0 +1,1205 @@
+{
+"title": "Kasaysayan ng Wikang Pambansa - Set 1 (Questions 1-25)",
+"questions": [
+{
+"question": "Ano ang pangunahing layunin ng kursong Kontekstwalisadong Komunikasyon sa Filipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pag-aralan ang kasaysayan ng Kastila sa Pilipinas",
+"Pagpapalawak at pagpapalalim sa komunikasyon sa wikang Filipino",
+"Pag-aaral sa mga dayuhang wika",
+"Paglikha ng bagong salita sa diksyonaryo"
+],
+"correctAnswer": "Pagpapalawak at pagpapalalim sa komunikasyon sa wikang Filipino"
+},
+{
+"question": "Anong taon itinatag ang Tanggol Wika, o Alyansa ng Mga Tagapagtanggol ng Wikang Filipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"2001",
+"2014",
+"1987",
+"2016"
+],
+"correctAnswer": "2014"
+},
+{
+"question": "Saan idinaos ang kapulungan upang itatag ang Tanggol Wika, na dinaluhan ng mahigit 300 propesor at aktibista?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pamantasang Ateneo de Manila",
+"Unibersidad ng Pilipinas Diliman",
+"Pamantasang De La Salle-Manila",
+"Unibersidad ng Santo Tomas"
+],
+"correctAnswer": "Pamantasang De La Salle-Manila"
+},
+{
+"question": "Ang Tanggol Wika ay itinatag bilang tugon sa pag-aalis ng dating mandatoryong anong asignatura?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"History",
+"Physical Education",
+"Filipino sa kolehiyo",
+"Science"
+],
+"correctAnswer": "Filipino sa kolehiyo"
+},
+{
+"question": "Alin sa mga sumusunod ang HINDI kabilang sa tatlong pundasyon ng wika ayon sa handout?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kultura",
+"Wika",
+"Teknolohiya",
+"Lipunan"
+],
+"correctAnswer": "Teknolohiya"
+},
+{
+"question": "Alinsunod sa Konstitusyon ng Biak na Bato (1897), anong wika ang idineklara bilang opisyal na wika ng Rebolusyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ingles",
+"Tagalog",
+"Espanyol",
+"Ilokano"
+],
+"correctAnswer": "Tagalog"
+},
+{
+"question": "Anong wika ang pansamantalang ginamit bilang opisyal na wika alinsunod sa Konstitusyon ng Malolos (1899)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Wikang Espanyol",
+"Wikang Tagalog",
+"Wikang Ingles",
+"Wikang Filipino"
+],
+"correctAnswer": "Wikang Espanyol"
+},
+{
+"question": "Aling Artikulo at Seksyon ng 1935 Konstitusyon ang nag-utos sa Kongreso na gumawa ng hakbang para sa pangkalahatang wikang pambansa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Art. I, Sek. 1",
+"Art. XIV, Sek. 3",
+"Art. XV, Sek. 2",
+"Art. VII, Sek. 4"
+],
+"correctAnswer": "Art. XIV, Sek. 3"
+},
+{
+"question": "Anong batas ang pinagtibay ng Kongreso noong Nobyembre 13, 1936, na nagtatag sa Unang Surian ng Wikang Pambansa (SWP)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Batas Republika Blg. 7104",
+"Batas Komonwelt Bilang 184",
+"Kautusang Pangkagawaran Blg. 25",
+"Batas Komonwelt Bilang 570"
+],
+"correctAnswer": "Batas Komonwelt Bilang 184"
+},
+{
+"question": "Kailan inilabas ng Surian ng Wikang Pambansa ang resolusyon na wikang Tagalog ang gawing batayan ng Wikang Pambansa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Nobyembre 7, 1937",
+"Agosto 13, 1959",
+"Disyembre 30, 1937",
+"Hulyo 4, 1946"
+],
+"correctAnswer": "Nobyembre 7, 1937"
+},
+{
+"question": "Anong Kautusang Tagapagpaganap ang nagpapatibay sa wikang Tagalog bilang batayang Wika ng Pambansang Wika ng Pilipinas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kautusang Tagapagpaganap Blg. 335",
+"Kautusang Pangkagawaran Blg. 7",
+"Kautusang Tagapagpaganap Blg. 134",
+"Kautusang Tagapagpaganap Blg. 263"
+],
+"correctAnswer": "Kautusang Tagapagpaganap Blg. 134"
+},
+{
+"question": "Anong petsa lumabas ang Kautusang Tagapagpaganap Blg. 134?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Abril 1, 1940",
+"Hulyo 12, 1974",
+"Disyembre 30, 1937",
+"Agosto 14, 1991"
+],
+"correctAnswer": "Disyembre 30, 1937"
+},
+{
+"question": "Alinsunod sa Kautusang Tagapagpaganap Blg. 263, anong dalawang aklat ang ipinalimbag para sa pagtuturo ng Wikang Pambansa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"English-Filipino Dictionary at Grammar Book",
+"A Tagalog-English Vocabulary at Balarila ng Wikang Pambansa",
+"Ang Pambansang Wika at Iba pa",
+"Handbook ng Wikang Filipino at Ingles"
+],
+"correctAnswer": "A Tagalog-English Vocabulary at Balarila ng Wikang Pambansa"
+},
+{
+"question": "Kailan sinimulan ang pagtuturo ng Wikang Pambansa sa lahat ng paaralan alinsunod sa Kautusang Tagapagpaganap Blg. 263?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Enero 21, 1989",
+"Oktubre 27, 1936",
+"Abril 1, 1940",
+"Nobyembre 7, 1937"
+],
+"correctAnswer": "Abril 1, 1940"
+},
+{
+"question": "Anong Batas Komonwelt ang nagdeklara na ang Wikang Pambansa (batay sa Tagalog) ay isa sa mga wikang opisyal simula Hulyo 4, 1946?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Batas Komonwelt Blg. 184",
+"Batas Komonwelt Blg. 570",
+"Batas Republika Blg. 7104",
+"Kautusang Pangkagawaran Blg. 52"
+],
+"correctAnswer": "Batas Komonwelt Blg. 570"
+},
+{
+"question": "Kailan pinalitan ang tawag sa Wikang Pambansa mula sa Tagalog/Pilipino tungo sa 'Pilipino'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Agosto 13, 1959",
+"Disyembre 30, 1937",
+"Hulyo 4, 1946",
+"Agosto 14, 1991"
+],
+"correctAnswer": "Agosto 13, 1959"
+},
+{
+"question": "Sino ang Kalihim ng Edukasyon na nagpalabas ng Kautusang Pangkagawaran Blg. 7, na nagpalit ng tawag sa Wikang Pambansa tungo sa Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Jose E. Romero",
+"Virgilio S. Almario",
+"Manuel L. Quezon",
+"Ferdinand E. Marcos"
+],
+"correctAnswer": "Jose E. Romero"
+},
+{
+"question": "Alinsunod sa 1973 Konstitusyon (Art. XV, Sek. 3), anong dalawang wika ang itinakda bilang wikang opisyal?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Tagalog at Espanyol",
+"Filipino at Tagalog",
+"Ingles at Pilipino",
+"Kastila at Ingles"
+],
+"correctAnswer": "Ingles at Pilipino"
+},
+{
+"question": "Alinsunod sa 1987 Konstitusyon (Art. XIV, Sek. 6), ano ang idineklara bilang Wikang Pambansa ng Pilipinas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pilipino",
+"Ingles",
+"Tagalog",
+"Filipino"
+],
+"correctAnswer": "Filipino"
+},
+{
+"question": "Ang 1987 Konstitusyon (Art. XIV, Sek. 8) ay nag-uutos na ang Konstitusyon ay dapat isalin sa Filipino at anong isa pang wika?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Hapon",
+"Espanyol",
+"Ingles",
+"Intsik"
+],
+"correctAnswer": "Ingles"
+},
+{
+"question": "Anong Kautusang Pangkagawaran ang nagpatupad ng Patakarang Edukasyong Bilingguwal noong Hulyo 12, 1974?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kautusang Pangkagawaran Blg. 52",
+"Kautusang Pangkagawaran Blg. 25",
+"Kautusang Pangkagawaran Blg. 7",
+"Proklamasyon Blg. 1041"
+],
+"correctAnswer": "Kautusang Pangkagawaran Blg. 25"
+},
+{
+"question": "Alinsunod sa Kautusang Pangkagawaran Blg. 52 (1987), anong dalawang wika ang itinakda bilang midyum ng pagtuturo?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Tagalog at Ingles",
+"Filipino at Ingles",
+"Espanyol at Filipino",
+"Pilipino at Kastila"
+],
+"correctAnswer": "Filipino at Ingles"
+},
+{
+"question": "Anong batas ang nagtatag sa Komisyon sa Wikang Filipino (KWF)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Batas Komonwelt Blg. 184",
+"Batas Republika Blg. 7104",
+"Kautusang Tagapagpaganap Blg. 134",
+"Batas Komonwelt Blg. 570"
+],
+"correctAnswer": "Batas Republika Blg. 7104"
+},
+{
+"question": "Kailan itinatag ang Komisyon sa Wikang Filipino (KWF)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Hulyo 12, 1974",
+"Agosto 14, 1991",
+"Disyembre 30, 1937",
+"Agosto 25, 1988"
+],
+"correctAnswer": "Agosto 14, 1991"
+},
+{
+"question": "Ang Kautusang Tagapagpaganap Blg. 335 (1988) ay nag-uutos sa paggamit ng Filipino sa lahat ng transaksiyon ng ano?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pribadong kumpanya",
+"Simbahan",
+"Edukasyonal na institusyon",
+"Pamahalaan"
+],
+"correctAnswer": "Pamahalaan"
+},
+{
+"question": "Sino ang dating Pangulo ng Pilipinas na nagproklama ng Linggo ng Wika noong 1954?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Manuel L. Quezon",
+"Fidel V. Ramos",
+"Ramon Magsaysay",
+"Diosdado Macapagal"
+],
+"correctAnswer": "Ramon Magsaysay"
+},
+{
+"question": "Anong petsa inilabas ni Pangulong Fidel V. Ramos ang Proklamasyon Blg. 1041 na nagpapalit sa 'Linggo ng Wika' tungo sa 'Buwan ng Wika'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Agosto 13, 1959",
+"Hulyo 4, 1946",
+"Enero 21, 1989",
+"Hulyo 15, 1997"
+],
+"correctAnswer": "Hulyo 15, 1997"
+},
+{
+"question": "Anong buwan idinaraos ang Buwan ng Wika sa Pilipinas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mayo",
+"Agosto",
+"Setyembre",
+"Nobyembre"
+],
+"correctAnswer": "Agosto"
+},
+{
+"question": "Anong taon itinatag ang Tanggol Wika bilang tugon sa pag-aalis ng Filipino at Panitikan sa kolehiyo?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"2011",
+"2014",
+"2005",
+"2016"
+],
+"correctAnswer": "2014"
+},
+{
+"question": "Ano ang dating ahensya na pinalitan ng Komisyon sa Wikang Filipino (KWF)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"National Commission for Culture and the Arts (NCCA)",
+"Linangan ng mga Wika sa Pilipinas (LWP)",
+"Surian ng Wikang Pambansa (SWP)",
+"Kagawaran ng Edukasyon (DepEd)"
+],
+"correctAnswer": "Linangan ng mga Wika sa Pilipinas (LWP)"
+},
+{
+"question": "Ang Filipino, bilang wikang pambansa, ay batay sa anong katutubong wika?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Cebuano",
+"Ilokano",
+"Tagalog",
+"Hiligaynon"
+],
+"correctAnswer": "Tagalog"
+},
+{
+"question": "Aling pangkat ng pulo ang pinakamalaki at pinakapopulado sa Pilipinas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Visayas",
+"Luzon",
+"Mindanao",
+"Palawan"
+],
+"correctAnswer": "Luzon"
+},
+{
+"question": "Ilan ang pangunahing pulo na bumubuo sa Pilipinas, ayon sa heograpiya?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"5",
+"3",
+"7,641",
+"12"
+],
+"correctAnswer": "3"
+},
+{
+"question": "Anong konstitusyon ang nagdeklara sa Tagalog bilang opisyal na wika ng Rebolusyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1987 Konstitusyon",
+"Konstitusyon ng Malolos",
+"1935 Konstitusyon",
+"Konstitusyon ng Biak na Bato"
+],
+"correctAnswer": "Konstitusyon ng Biak na Bato"
+},
+{
+"question": "Aling ahensya ang may pangunahing mandato na magsagawa, mag-ugnay, at magtaguyod ng mga pananaliksik para sa pagpapaunlad ng Filipino at iba pang wika sa Pilipinas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kagawaran ng Edukasyon (DepEd)",
+"Komisyon sa Wikang Filipino (KWF)",
+"Komisyon sa Lalong Mataas na Edukasyon (CHED)",
+"Sentro ng Wikang Filipino (SWF)"
+],
+"correctAnswer": "Komisyon sa Wikang Filipino (KWF)"
+},
+{
+"question": "Ang Patakarang Edukasyong Bilingguwal (1974) ay nag-uutos na gamitin ang Filipino at Ingles bilang midyum ng pagtuturo. Sa anong mga asignatura dapat gamitin ang Ingles?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"History at Social Studies",
+"Science at Mathematics",
+"Filipino at Panitikan",
+"Home Economics at Livelihood Education"
+],
+"correctAnswer": "Science at Mathematics"
+},
+{
+"question": "Sa ilalim ng Patakarang Edukasyong Bilingguwal, anong wika ang dapat gamitin sa mga asignaturang Social Studies/Social Science, Music, Arts, at Physical Education?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ingles",
+"Espanyol",
+"Filipino",
+"Wika ng Rehiyon"
+],
+"correctAnswer": "Filipino"
+},
+{
+"question": "Anong Kautusang Tagapagpaganap ang nag-atas na 'palaganapin ang paggamit ng wikang Filipino sa lahat ng transaksiyon, komunikasyon, at korespondensiya ng pamahalaan'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kautusang Pangkagawaran Blg. 25",
+"Kautusang Tagapagpaganap Blg. 134",
+"Kautusang Tagapagpaganap Blg. 335",
+"Batas Republika Blg. 7104"
+],
+"correctAnswer": "Kautusang Tagapagpaganap Blg. 335"
+},
+{
+"question": "Ang Kontekstwalisadong Komunikasyon sa Filipino ay tumutukoy sa paggamit ng Filipino sa iba't ibang 'konteksto'. Ano ang ibig sabihin ng 'konteksto' sa pag-aaral na ito?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang diksyonaryo ng isang wika",
+"Ang mga batas na sumusuporta sa wika",
+"Ang sitwasyon, kaligiran, o kapaligiran kung saan nangyayari ang komunikasyon",
+"Ang bilang ng taong gumagamit ng wika"
+],
+"correctAnswer": "Ang sitwasyon, kaligiran, o kapaligiran kung saan nangyayari ang komunikasyon"
+},
+{
+"question": "Sino ang Kalihim ng Edukasyon na lumagda sa Kautusang Pangkagawaran Blg. 25 noong Hulyo 12, 1974?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Juan L. Manuel",
+"Jose E. Romero",
+"Lourdes R. Quisumbing",
+"Isidro D. Carino"
+],
+"correctAnswer": "Juan L. Manuel"
+},
+{
+"question": "Ang Kautusang Pangkagawaran Blg. 52 (1987) ay nagpatibay muli sa Patakarang Bilingguwal. Anong taon ito inilabas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1974",
+"1987",
+"1991",
+"1997"
+],
+"correctAnswer": "1987"
+},
+{
+"question": "Aling Kautusang Pangkagawaran ang nagpapalit ng tawag sa pambansang wika mula Tagalog/Pilipino tungo sa 'Pilipino' noong 1959?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kautusang Pangkagawaran Blg. 7",
+"Kautusang Pangkagawaran Blg. 25",
+"Kautusang Tagapagpaganap Blg. 134",
+"Proklamasyon Blg. 12"
+],
+"correctAnswer": "Kautusang Pangkagawaran Blg. 7"
+},
+{
+"question": "Sino ang nag-utos ng pagtuturo ng Wikang Pambansa sa lahat ng paaralan simula Abril 1, 1940?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pangulong Ramon Magsaysay",
+"Pangulong Manuel L. Quezon",
+"Kalihim ng Edukasyon Jorge Bocobo",
+"Direktor ng SWP Jaime C. de Veyra"
+],
+"correctAnswer": "Pangulong Manuel L. Quezon"
+},
+{
+"question": "Anong taon inilabas ang Konstitusyon ng Biak na Bato?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1896",
+"1897",
+"1899",
+"1901"
+],
+"correctAnswer": "1897"
+},
+{
+"question": "Ang 1935 Konstitusyon ay nag-utos sa pagpapaunlad ng pangkalahatang wikang pambansa batay sa anong wika?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ingles",
+"Tagalog",
+"Espanyol",
+"Lahat ng wika"
+],
+"correctAnswer": "Tagalog"
+},
+{
+"question": "Ang 'A Tagalog-English Vocabulary' at 'Balarila ng Wikang Pambansa' ay ipinalimbag alinsunod sa anong kautusan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kautusang Tagapagpaganap Blg. 134",
+"Kautusang Tagapagpaganap Blg. 263",
+"Batas Komonwelt Blg. 570",
+"Kautusang Pangkagawaran Blg. 7"
+],
+"correctAnswer": "Kautusang Tagapagpaganap Blg. 263"
+},
+{
+"question": "Kailan isinasaad sa Konstitusyon ng Malolos na ang Espanyol ang pansamantalang opisyal na wika?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1897",
+"1899",
+"1935",
+"1973"
+],
+"correctAnswer": "1899"
+},
+{
+"question": "Sino ang kinikilalang 'Ama ng Wikang Pambansa' ng Pilipinas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Jose Rizal",
+"Andres Bonifacio",
+"Manuel L. Quezon",
+"Virgilio S. Almario"
+],
+"correctAnswer": "Manuel L. Quezon"
+},
+{
+"question": "Ang Batas Republika Blg. 7104 ay lumabas noong Agosto 14, 1991. Ano ang pangunahing idinulot ng batas na ito?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagpapalit ng Linggo ng Wika sa Buwan ng Wika",
+"Pagtatatag ng Linangan ng mga Wika sa Pilipinas",
+"Pagtatatag ng Komisyon sa Wikang Filipino (KWF)",
+"Pagdeklara sa Filipino at Ingles bilang wikang opisyal"
+],
+"correctAnswer": "Pagtatatag ng Komisyon sa Wikang Filipino (KWF)"
+},
+{
+"question": "Ang Kautusang Tagapagpaganap Blg. 335 ay nilagdaan ni Pangulong Corazon C. Aquino noong Agosto 25, anong taon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1987",
+"1988",
+"1989",
+"1990"
+],
+"correctAnswer": "1988"
+},
+{
+"question": "Kailan itinatag ang Surian ng Wikang Pambansa (SWP)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Nobyembre 13, 1936",
+"Disyembre 30, 1937",
+"Oktubre 27, 1936",
+"Abril 1, 1940"
+],
+"correctAnswer": "Oktubre 27, 1936"
+},
+{
+"question": "Anong Batas Komonwelt ang nagtatag sa Unang Surian ng Wikang Pambansa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Batas Komonwelt Blg. 570",
+"Batas Komonwelt Blg. 184",
+"Batas Republika Blg. 7104",
+"Kautusang Tagapagpaganap Blg. 134"
+],
+"correctAnswer": "Batas Komonwelt Blg. 184"
+},
+{
+"question": "Anong petsa pinagtibay ng Kongreso ang Batas Komonwelt Blg. 184?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Nobyembre 13, 1936",
+"Oktubre 27, 1936",
+"Disyembre 30, 1937",
+"Abril 1, 1940"
+],
+"correctAnswer": "Nobyembre 13, 1936"
+},
+{
+"question": "Anong wika ang inirekomenda ng Surian ng Wikang Pambansa noong Nobyembre 7, 1937 na gawing batayan ng Wikang Pambansa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Cebuano",
+"Ilokano",
+"Espanyol",
+"Tagalog"
+],
+"correctAnswer": "Tagalog"
+},
+{
+"question": "Anong petsa opisyal na pinagtibay ang Tagalog bilang batayang wika ng Pambansang Wika ng Pilipinas sa bisa ng Kautusang Tagapagpaganap Blg 134?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Nobyembre 7, 1937",
+"Oktubre 27, 1936",
+"Disyembre 30, 1937",
+"Abril 1, 1940"
+],
+"correctAnswer": "Disyembre 30, 1937"
+},
+{
+"question": "Anong Artikulo at Seksyon ng 1973 Konstitusyon ang nagsasaad na ang Ingles at Pilipino ang dapat maging wikang opisyal?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Art. XIV, Sek. 6",
+"Art. XV, Sek. 3",
+"Art. VII, Sek. 2",
+"Art. VI, Sek. 1"
+],
+"correctAnswer": "Art. XV, Sek. 3"
+},
+{
+"question": "Alinsunod sa 1973 Konstitusyon, anong dalawang wika ang idineklara bilang wikang opisyal?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Filipino at Espanyol",
+"Ingles at Pilipino",
+"Tagalog at Ingles",
+"Filipino at Ingles"
+],
+"correctAnswer": "Ingles at Pilipino"
+},
+{
+"question": "Sa anong taon pinagtibay ang bagong Konstitusyon na nagsasaad na ang Wikang Pambansa ng Pilipinas ay wikang 'Filipino'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1973",
+"1986",
+"1987",
+"1991"
+],
+"correctAnswer": "1987"
+},
+{
+"question": "Sa anong Artikulo at Seksyon ng 1987 Konstitusyon isinasaad na ang Wikang Pambansa ng Pilipinas ay Filipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Art. XV, Sek. 3 at 4",
+"Art. XIV, Sek. 6 at 8",
+"Art. IX, Sek. 1 at 2",
+"Art. X, Sek. 5 at 7"
+],
+"correctAnswer": "Art. XIV, Sek. 6 at 8"
+},
+{
+"question": "Aling Kautusang Pangkagawaran ang nagpatibay muli sa Patakarang Edukasyong Bilingguwal (1974) noong 1987?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kautusang Pangkagawaran Blg. 25",
+"Kautusang Tagapagpaganap Blg. 335",
+"Kautusang Pangkagawaran Blg. 7",
+"Kautusang Pangkagawaran Blg. 52"
+],
+"correctAnswer": "Kautusang Pangkagawaran Blg. 52"
+},
+{
+"question": "Ayon sa Patakarang Edukasyong Bilingguwal, anong midyum ng pagtuturo ang gagamitin sa mga asignaturang Social Studies/Social Science, Music, Arts, at Physical Education?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mother Tongue",
+"Ingles",
+"Filipino",
+"Espanyol"
+],
+"correctAnswer": "Filipino"
+},
+{
+"question": "Sino ang Kalihim ng Edukasyon na lumagda sa Kautusang Pangkagawaran Blg. 25 noong Hulyo 12, 1974 na nagpatupad ng Patakarang Edukasyong Bilingguwal?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Lourdes R. Quisumbing",
+"Juan L. Manuel",
+"Jose E. Romero",
+"Isidro D. Carino"
+],
+"correctAnswer": "Juan L. Manuel"
+},
+{
+"question": "Ang Tanggol Wika ay itinatag noong 2014 bilang tugon sa pag-aalis ng anong dalawang mandatoryong asignatura sa kolehiyo?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"History at Math",
+"Filipino at Panitikan",
+"Science at Ingles",
+"Espanyol at Rizal"
+],
+"correctAnswer": "Filipino at Panitikan"
+},
+{
+"question": "Ang Kautusang Pangkagawaran Blg. 7 (1959) ay nag-utos na tawagin ang Pambansang Wika bilang ano, mula sa Tagalog?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Filipino",
+"Pilipino",
+"Philippine Language",
+"Tagalog-Based"
+],
+"correctAnswer": "Pilipino"
+},
+{
+"question": "Ang Batas Republika Blg. 7104 ay lumabas noong Agosto 14, anong taon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1987",
+"1991",
+"1997",
+"2001"
+],
+"correctAnswer": "1991"
+},
+{
+"question": "Ang Batas Republika Blg. 7104 ay naging daan sa pagtatatag ng anong ahensya?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Surian ng Wikang Pambansa (SWP)",
+"Linangan ng mga Wika sa Pilipinas (LWP)",
+"Komisyon sa Wikang Filipino (KWF)",
+"Pambansang Komite ng Wika (PKW)"
+],
+"correctAnswer": "Komisyon sa Wikang Filipino (KWF)"
+},
+{
+"question": "Alinsunod sa Kautusang Tagapagpaganap Blg. 263 (1940), anong aklat ang dapat ipagamit sa lahat ng paaralan simula Abril 1, 1940?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang Kasaysayan ng Pilipinas",
+"Florante at Laura",
+"Balarila ng Wikang Pambansa",
+"Ang Pambansang Alagad ng Sining"
+],
+"correctAnswer": "Balarila ng Wikang Pambansa"
+},
+{
+"question": "Sino ang Pangulo ng Pilipinas nang ilabas ang Kautusang Tagapagpaganap Blg. 335 (1988)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ferdinand Marcos",
+"Diosdado Macapagal",
+"Corazon C. Aquino",
+"Fidel V. Ramos"
+],
+"correctAnswer": "Corazon C. Aquino"
+},
+{
+"question": "Kailan isinasaad na magsisimula ang pagtuturo ng Wikang Pambansa sa lahat ng paaralan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Disyembre 30, 1937",
+"Abril 1, 1940",
+"Hulyo 4, 1946",
+"Agosto 13, 1959"
+],
+"correctAnswer": "Abril 1, 1940"
+},
+{
+"question": "Sa ilalim ng 1987 Konstitusyon, anong opisyal na wika ang kasama ng Filipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Espanyol",
+"Hapon",
+"Ingles",
+"Latin"
+],
+"correctAnswer": "Ingles"
+},
+{
+"question": "Sa konteksto ng 'Kontekstwalisadong Komunikasyon sa Filipino', ano ang mahalagang salik na nagpapalawak at nagpapalalim ng komunikasyon sa wikang Filipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang pagsulat ng tula",
+"Ang paggamit nito sa sariling komunidad",
+"Ang pag-aaral ng gramatika",
+"Ang paggawa ng talumpati"
+],
+"correctAnswer": "Ang paggamit nito sa sariling komunidad"
+},
+{
+"question": "Anong petsa pansamantalang ginamit ang wikang Espanyol bilang opisyal na wika alinsunod sa Konstitusyon ng Malolos?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Disyembre 30, 1937",
+"Oktubre 27, 1936",
+"Enero 21, 1899",
+"Nobyembre 13, 1936"
+],
+"correctAnswer": "Enero 21, 1899"
+},
+{
+"question": "Sino ang Pangulo ng Pilipinas na nagproklama sa Buwan ng Wika sa pamamagitan ng Proklamasyon Blg. 1041 (1997)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Corazon C. Aquino",
+"Manuel L. Quezon",
+"Fidel V. Ramos",
+"Ramon Magsaysay"
+],
+"correctAnswer": "Fidel V. Ramos"
+},
+{
+"question": "Anong aklat, bukod sa 'Balarila ng Wikang Pambansa', ang ipinag-utos na ilimbag at gamitin alinsunod sa Kautusang Tagapagpaganap Blg. 263?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang Filipino Diksiyonaryo",
+"A Tagalog-English Vocabulary",
+"Ang Sining ng Pagsasalin",
+"Mga Tuntunin ng Ortograpiya"
+],
+"correctAnswer": "A Tagalog-English Vocabulary"
+},
+{
+"question": "Ang Kautusang Tagapagpaganap Blg. 335 ay nag-utos na palaganapin ang paggamit ng Filipino sa lahat ng transaksiyon, komunikasyon, at korespondensiya ng anong pangunahing institusyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mga Unibersidad lamang",
+"Pribadong Sektor",
+"Mga Ahensya ng Pamahalaan",
+"Midya at Pelikula"
+],
+"correctAnswer": "Mga Ahensya ng Pamahalaan"
+},
+{
+"question": "Sino ang kauna-unahang direktor ng Surian ng Wikang Pambansa (SWP) na nagmula sa Samar?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Lope K. Santos",
+"Cecilio Lopez",
+"Jaime C. de Veyra",
+"Virgilio S. Almario"
+],
+"correctAnswer": "Jaime C. de Veyra"
+},
+{
+"question": "Anong taon inilabas ang Kautusang Tagapagpaganap Blg. 263 na nagbigay pahintulot sa paglilimbag ng diksiyonaryo at balarila ng wikang pambansa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1937",
+"1940",
+"1959",
+"1974"
+],
+"correctAnswer": "1940"
+},
+{
+"question": "Anong Batas Komonwelt ang nagdeklara sa Wikang Pambansa (Tagalog) bilang isa sa mga opisyal na wika simula Hulyo 4, 1946?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Batas Komonwelt Blg. 184",
+"Batas Komonwelt Blg. 570",
+"Batas Republika Blg. 7104",
+"Kautusang Tagapagpaganap Blg. 134"
+],
+"correctAnswer": "Batas Komonwelt Blg. 570"
+},
+{
+"question": "Anong ahensya ang pumalit sa Surian ng Wikang Pambansa (SWP) noong 1987 bago ito naging Komisyon sa Wikang Filipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Komite sa Wikang Pambansa (KWP)",
+"Pambansang Lupon ng Wika (PLW)",
+"Linangan ng mga Wika sa Pilipinas (LWP)",
+"National Language Institute (NLI)"
+],
+"correctAnswer": "Linangan ng mga Wika sa Pilipinas (LWP)"
+},
+{
+"question": "Sino ang Pangulo ng Pilipinas na nagproklama ng **Linggo ng Wika** tuwing Marso 29 hanggang Abril 4 noong 1954?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Manuel L. Quezon",
+"Ramon Magsaysay",
+"Diosdado Macapagal",
+"Ferdinand Marcos Sr."
+],
+"correctAnswer": "Ramon Magsaysay"
+},
+{
+"question": "Anong Proklamasyon ang naglipat ng pagdiriwang ng Linggo ng Wika mula Marso-Abril patungong Agosto 13-19 noong 1955?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Proklamasyon Blg. 12",
+"Proklamasyon Blg. 186",
+"Proklamasyon Blg. 1041",
+"Kautusang Pangkagawaran Blg. 7"
+],
+"correctAnswer": "Proklamasyon Blg. 186"
+},
+{
+"question": "Anong buwan ang itinakda bilang **Buwan ng Wika** alinsunod sa Proklamasyon Blg. 1041 (1997)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Abril",
+"Hunyo",
+"Agosto",
+"Nobyembre"
+],
+"correctAnswer": "Agosto"
+},
+{
+"question": "Ilang orihinal na miyembro (kasama ang Tagapangulo) ang bumuo sa Surian ng Wikang Pambansa noong itatag ito?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"5",
+"7",
+"9",
+"11"
+],
+"correctAnswer": "7"
+},
+{
+"question": "Sino ang Pangulo na nag-utos na ang wikang pambansa ay tatawaging **Pilipino** mula sa Tagalog noong 1959?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Manuel L. Quezon",
+"Diosdado Macapagal",
+"Ferdinand Marcos Sr.",
+"Carlos P. Garcia"
+],
+"correctAnswer": "Carlos P. Garcia"
+},
+{
+"question": "Sino ang kinatawan ng wikang Tagalog sa orihinal na lupon ng Surian ng Wikang Pambansa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Lope K. Santos",
+"Cecilio Lopez",
+"Santiago A. Fonacier",
+"Zoilo Hilario"
+],
+"correctAnswer": "Cecilio Lopez"
+},
+{
+"question": "Ilang letra ang bumubuo sa makabagong **alpabetong Filipino** na ginagamit ngayon (alinsunod sa Ortograpiyang Pambansa)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"20",
+"26",
+"28",
+"32"
+],
+"correctAnswer": "28"
+},
+{
+"question": "Alinsunod sa **Kautusang Pangkagawaran Blg. 25 (1974)**, anong patakaran ang opisyal na ipinatupad sa sistema ng edukasyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mother Tongue-Based Multilingual Education",
+"Filipino-Only Policy",
+"Patakarang Edukasyong Bilingguwal",
+"English as Sole Medium of Instruction"
+],
+"correctAnswer": "Patakarang Edukasyong Bilingguwal"
+},
+{
+"question": "Sa ilalim ng Patakarang Edukasyong Bilingguwal, anong midyum ng pagtuturo ang ginagamit sa mga asignaturang Science at Mathematics?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Filipino",
+"Ingles",
+"Espanyol",
+"Mother Tongue"
+],
+"correctAnswer": "Ingles"
+},
+{
+"question": "Ano ang dating mandatoryong asignatura sa kolehiyo na inalis ng CHED Memorandum Order No. 20 Series of 2013, na naging dahilan ng pagtatatag ng Tanggol Wika?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Rizal Course",
+"Science",
+"Filipino",
+"History"
+],
+"correctAnswer": "Filipino"
+},
+{
+"question": "Ang Komisyon sa Wikang Filipino (KWF) ay itinatag sa bisa ng anong batas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Batas Komonwelt Blg. 570",
+"Kautusang Tagapagpaganap Blg. 134",
+"Batas Republika Blg. 7104",
+"Proklamasyon Blg. 1041"
+],
+"correctAnswer": "Batas Republika Blg. 7104"
+},
+{
+"question": "Ayon sa Artikulo XIV, Seksyon 7 ng 1987 Konstitusyon, bukod sa Filipino at Ingles, anong wika ang dapat panatilihin bilang opsyonal na wika para sa komunikasyon at pagtuturo?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Nihonggo",
+"Mandarin",
+"Espanyol",
+"Arabic"
+],
+"correctAnswer": "Espanyol"
+},
+{
+"question": "Anong tawag sa 20-letra na alpabeto na ginamit bago ang 'Filipino' na may 28 letra, na binubuo ng 15 katinig at 5 patinig?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Alibata",
+"Abakada",
+"Tagalog Alpabeto",
+"Pilipino Alpabeto"
+],
+"correctAnswer": "Abakada"
+},
+{
+"question": "Sino ang Pangulo na naglabas ng Kautusang Tagapagpaganap Blg. 134 na nagpapatibay sa Tagalog bilang batayang wika ng Wikang Pambansa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Manuel L. Quezon",
+"Sergio Osmeña",
+"Jose P. Laurel",
+"Manuel Roxas"
+],
+"correctAnswer": "Manuel L. Quezon"
+},
+{
+"question": "Noong 1940, inilabas ang Kautusang Tagapagpaganap Blg. 263 na nag-utos ng pagtuturo ng wikang pambansa sa mga paaralan. Kailan dapat magsimula ang pagtuturo nito?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Hunyo 19, 1940",
+"Hulyo 4, 1946",
+"Abril 1, 1940",
+"Disyembre 30, 1937"
+],
+"correctAnswer": "Abril 1, 1940"
+},
+{
+"question": "Ano ang pangunahing tungkulin ng **Linangan ng mga Wika sa Pilipinas (LWP)**, na pinalitan ng KWF?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagpapalaganap lamang ng Ingles",
+"Pagpapayaman ng Tagalog lamang",
+"Pagsasagawa ng pananaliksik sa mga wika ng Pilipinas",
+"Pagpapatupad ng martial law"
+],
+"correctAnswer": "Pagsasagawa ng pananaliksik sa mga wika ng Pilipinas"
+},
+{
+"question": "Sa panahon ng pananakop ng Hapon, anong lokal na wika ang binigyang-diin at ginawang opisyal na wika kasama ng Nihonggo?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Cebuano",
+"Ilokano",
+"Tagalog",
+"Hiligaynon"
+],
+"correctAnswer": "Tagalog"
+},
+{
+"question": "Ano ang isa sa mga pangunahing dahilan ng pagtatatag ng Surian ng Wikang Pambansa (SWP) noong 1936?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Upang isulong ang Espanyol bilang Pambansang Wika",
+"Upang maghanap ng wikang pambansa batay sa katutubong wika",
+"Upang magtatag ng batas militar",
+"Upang ituro ang Ingles sa lahat ng paaralan"
+],
+"correctAnswer": "Upang maghanap ng wikang pambansa batay sa katutubong wika"
+},
+{
+"question": "Anong taon ginanap ang plebisito na nagpatibay sa Konstitusyon ng 1987, kung saan pinalitan ang 'Pilipino' ng 'Filipino'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1986",
+"1987",
+"1988",
+"1991"
+],
+"correctAnswer": "1987"
+},
+{
+"question": "Ayon sa Kautusang Tagapagpaganap Blg. 335 (1988), ano ang hinihingi sa mga ahensiya ng pamahalaan na gawin sa kanilang mga transaksiyon at komunikasyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Gumamit lamang ng Ingles",
+"Palaganapin ang paggamit ng Filipino",
+"Bumalik sa paggamit ng Espanyol",
+"Isama ang Mother Tongue lamang"
+],
+"correctAnswer": "Palaganapin ang paggamit ng Filipino"
+},
+{
+"question": "Ang konsepto ng **'Pahiwatig'** sa Komunikasyong Pilipino ay nagpapakita na ang kultura ng Pilipinas ay may anong katangian?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Low-context culture",
+"Monochronic culture",
+"High-context culture",
+"Individualistic culture"
+],
+"correctAnswer": "High-context culture"
+}
+]
+}

@@ -1,0 +1,1205 @@
+{
+"title": "Komunikasyong Pilipino Review Quiz - Set 1 (Questions 1-25)",
+"questions": [
+{
+"question": "Ayon kay Melba Padilla Maggay, alin sa mga sumusunod ang madalas na kinatitisuran ng mga dayuhan sa pakikipag-ugnayan sa mga Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang labis na pagiging direkta ng mga Pilipino.",
+"Ang mataas na antas ng pagkakaalanganin ng ating pakikipag-ugnayan.",
+"Ang pagiging mahiyain ng mga Pilipino.",
+"Ang paggamit ng Ingles sa komunikasyon."
+],
+"correctAnswer": "Ang mataas na antas ng pagkakaalanganin ng ating pakikipag-ugnayan."
+},
+{
+"question": "Sa konteksto ng komunikasyon, ano ang tinutukoy ni Maggay na 'mahirap na itantya' sa isang Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kung kailan sila kakain.",
+"Kung kailan nagsasabi ng oo at hindi ang isang Pilipino.",
+"Kung anong trabaho ang gusto nila.",
+"Kung saan sila nakatira."
+],
+"correctAnswer": "Kung kailan nagsasabi ng oo at hindi ang isang Pilipino."
+},
+{
+"question": "Ayon sa handout, anong kultura ang pinatutunayan ng masalimuot na pagkakaugnay ng berbal at 'di-berbal na anyo ng komunikasyon ng mga Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Low context culture",
+"Monochronic culture",
+"High context culture",
+"Individualistic culture"
+],
+"correctAnswer": "High context culture"
+},
+{
+"question": "Ano ang tawag sa penomenong (phenomenon) 'hindi lantad o hindi direkta ang mensaheng nais nating iparating sa ating kausap' sa komunikasyong Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Parinig",
+"Pagsasabi",
+"Pakikipagkapwa",
+"Pahiwatig"
+],
+"correctAnswer": "Pahiwatig"
+},
+{
+"question": "Sino ang nagbigay-diin sa konsepto ng 'pahiwatig' bilang katangian ng high context culture ng Pilipinas?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Virgilio Enriquez",
+"Melba Padilla Maggay",
+"San Juan, et al.",
+"F. Landa Jocano"
+],
+"correctAnswer": "Melba Padilla Maggay"
+},
+{
+"question": "Aling elemento ng Komunikasyong Pilipino ang nagpapakita na 'may mataas na antas ng pagkakaalanganin' (high degree of ambiguity)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagiging direkta",
+"Pahiwatig",
+"Pagiging lantad",
+"Pagiging pormal"
+],
+"correctAnswer": "Pahiwatig"
+},
+{
+"question": "Sino ang kinikilalang nagtatag ng Sikolohiyang Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Melba Padilla Maggay",
+"Virgilio Enriquez",
+"Isagani Cruz",
+"F. Landa Jocano"
+],
+"correctAnswer": "Virgilio Enriquez"
+},
+{
+"question": "Kailan inilathala ni Virgilio Enriquez ang konsepto ng Pakikipagkapwa na itinuturing na pinakamahalagang Sikolohiko at Pilosopikong Konsepto sa Sikolohiyang Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1970, 2010",
+"1978, 2016",
+"1980, 2000",
+"1992, 2005"
+],
+"correctAnswer": "1978, 2016"
+},
+{
+"question": "Ano ang pangunahing kahulugan ng 'Pakikipagkapwa' ayon kay Virgilio Enriquez?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagtanggap sa ibang tao bilang mas nakatataas.",
+"Pagtanggap sa ibang tao bilang kaaway.",
+"Pagtanggap sa ibang tao bilang kapantay.",
+"Pagtanggap sa ibang tao bilang nasasakupan."
+],
+"correctAnswer": "Pagtanggap sa ibang tao bilang kapantay."
+},
+{
+"question": "Ano ang tumutukoy sa 'ubod ng Sikolohiya ng mga Pilipino' at kultura ng pakikipagkapwa, ayon sa binanggit sa handout?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagiging mayaman",
+"Pagsunod sa batas",
+"Pakikipagkapwa",
+"Pagiging direkta"
+],
+"correctAnswer": "Pakikipagkapwa"
+},
+{
+"question": "Sa Pagbabahayan-bahay, alin ang naipamamalas ng mga Pilipino sa kaniyang kapwa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang pagiging mapagmataas.",
+"Ang pagiging sarado.",
+"Ang pagiging bukas.",
+"Ang pagiging matipid."
+],
+"correctAnswer": "Ang pagiging bukas."
+},
+{
+"question": "Ano ang mahalagang magkaroon ang isang indibidwal na nagsasagawa ng pagbabahay-bahay bilang pagbibigay-halaga sa panahong ipinagkaloob ng maybahay?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagkakaroon ng pera",
+"Sensibilidad",
+"Mataas na posisyon",
+"Mabilis na pagkilos"
+],
+"correctAnswer": "Sensibilidad"
+},
+{
+"question": "Alin sa mga sumusunod ang pangunahing layunin ng **Pulong-Bayan**?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Magbenta ng produkto.",
+"Magsagawa ng kasalan.",
+"Magbigay-alam ang mga kinauukulan sa isang komunidad.",
+"Magpalipas ng oras."
+],
+"correctAnswer": "Magbigay-alam ang mga kinauukulan sa isang komunidad."
+},
+{
+"question": "Sino ang mga kinakailangang magtipon sa isang Pulong-Bayan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mga negosyante at dayuhan.",
+"Ang publiko at ng mga kinauukulan.",
+"Mga bata at matatanda lamang.",
+"Mga guro at mag-aaral lamang."
+],
+"correctAnswer": "Ang publiko at ng mga kinauukulan."
+},
+{
+"question": "Ayon kina San Juan, et al., ano ang isa sa mga pangunahing katangian ng Pulong-Bayan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Hindi ito pormal.",
+"Ito ay laging isinasara sa loob ng bahay.",
+"Ito ay hindi nangangailangan ng tagapagsalita.",
+"Ito ay isinasagawa sa gitna ng publiko."
+],
+"correctAnswer": "Ito ay isinasagawa sa gitna ng publiko."
+},
+{
+"question": "Anong uri ng komunikasyon ang inilalarawan sa 'pagpapahayag ng ideya o kaisipan sa pamamagitan ng salita na tinatawag na wika'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Di-Berbal na Komunikasyon",
+"Berbal na Komunikasyon",
+"Simbolikong Komunikasyon",
+"Impormal na Komunikasyon"
+],
+"correctAnswer": "Berbal na Komunikasyon"
+},
+{
+"question": "Ang tono ng pagsasalita, ang bilis, at ang lakas ng boses ay bahagi ng anong uri ng 'Di-Berbal na Komunikasyon'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kinesics",
+"Proxemics",
+"Paralanguage",
+"Haptics"
+],
+"correctAnswer": "Paralanguage"
+},
+{
+"question": "Alin sa mga sumusunod ang tumutukoy sa komunikasyon sa pamamagitan ng paggamit ng ekspresyon ng mukha (facial expressions)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Oculesics",
+"Chronemics",
+"Kinesics",
+"Vocalics"
+],
+"correctAnswer": "Kinesics"
+},
+{
+"question": "Sa Di-Berbal na Komunikasyon, ano ang tinatawag na **kinesics**?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Paggamit ng oras.",
+"Pag-aaral ng galaw ng katawan (body language).",
+"Paggamit ng espasyo.",
+"Paggamit ng kulay."
+],
+"correctAnswer": "Pag-aaral ng galaw ng katawan (body language)."
+},
+{
+"question": "Alin ang tumutukoy sa pag-aaral ng distansiya o espasyo sa pagitan ng mga tao habang nag-uusap?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Proxemics",
+"Kinesics",
+"Oculesics",
+"Paralanguage"
+],
+"correctAnswer": "Proxemics"
+},
+{
+"question": "Ang pag-aaral kung paano ginagamit ang oras sa komunikasyon, tulad ng paghihintay o pagiging huli, ay tinatawag na:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kinesics",
+"Haptics",
+"Chronemics",
+"Paralanguage"
+],
+"correctAnswer": "Chronemics"
+},
+{
+"question": "Anong aspeto ng Di-Berbal na Komunikasyon ang sumasaklaw sa pag-aaral ng paghipo o pagdampi?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Oculesics",
+"Chronemics",
+"Haptics",
+"Proxemics"
+],
+"correctAnswer": "Haptics"
+},
+{
+"question": "Sa **Oculesics**, ano ang pangunahing ginagamit sa komunikasyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagkaway ng kamay",
+"Ekspresyon ng mukha",
+"Galaw ng mata (eye contact)",
+"Pagbabago ng boses"
+],
+"correctAnswer": "Galaw ng mata (eye contact)"
+},
+{
+"question": "Alin ang hindi kabilang sa mga Di-Berbal na Komunikasyon na nabanggit sa handout?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kinesics",
+"Proxemics",
+"Lingguwistika",
+"Chronemics"
+],
+"correctAnswer": "Lingguwistika"
+},
+{
+"question": "Ang paggamit ng wika, o salita, sa pagpapahayag ng ideya ay naglalarawan sa anong uri ng komunikasyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Berbal",
+"Di-Berbal",
+"Haptics",
+"Oculesics"
+],
+"correctAnswer": "Berbal"
+},
+{
+"question": "Alin sa mga sumusunod ang mahalagang magkaroon ang indibidwal na nagsasagawa ng Pagbabahay-bahay bilang pagbibigay-halaga sa panahong ibinigay ng maybahay?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagka-determinasyon",
+"Sensibilidad",
+"Lakas ng boses",
+"Kayamanan"
+],
+"correctAnswer": "Sensibilidad"
+},
+{
+"question": "Ayon sa handout, ang pahiwatig ay nagpapatunay na ang Pilipinas ay may anong uri ng kultura?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Low context culture",
+"Polychronic culture",
+"High context culture",
+"Individualistic culture"
+],
+"correctAnswer": "High context culture"
+},
+{
+"question": "Ano ang itinuturing na pinakamahalagang Sikolohiko at Pilosopikong Konsepto sa Sikolohiyang Pilipino, na nangangahulugan ng pagtanggap sa ibang tao bilang kapantay?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagtatapon",
+"Pagmamay-ari",
+"Pakikipagkapwa",
+"Pakikisama"
+],
+"correctAnswer": "Pakikipagkapwa"
+},
+{
+"question": "Sino ang mga awtor na nagsabing ang Pulong-Bayan ay isinasagawa sa gitna ng publiko?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Melba Padilla Maggay",
+"Virgilio Enriquez",
+"San Juan, et al.",
+"F. Landa Jocano"
+],
+"correctAnswer": "San Juan, et al."
+},
+{
+"question": "Alin sa mga sumusunod ang HINDI katangian ng Pulong-Bayan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagtitipon ng publiko at kinauukulan.",
+"Magbigay-alam sa isang komunidad.",
+"Laging ginagawa sa loob ng saradong opisina.",
+"Isinasagawa sa gitna ng publiko."
+],
+"correctAnswer": "Laging ginagawa sa loob ng saradong opisina."
+},
+{
+"question": "Ang tono ng pagsasalita, bilis, at lakas ng boses ay tumutukoy sa anong uri ng Di-Berbal na Komunikasyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kinesics",
+"Chronemics",
+"Paralanguage",
+"Haptics"
+],
+"correctAnswer": "Paralanguage"
+},
+{
+"question": "Ang pag-aaral ng distansiya o espasyo sa pagitan ng mga tao habang nag-uusap ay kilala bilang:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Oculesics",
+"Haptics",
+"Kinesics",
+"Proxemics"
+],
+"correctAnswer": "Proxemics"
+},
+{
+"question": "Ano ang tumutukoy sa pag-aaral ng galaw ng mata (eye contact) sa Di-Berbal na Komunikasyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Oculesics",
+"Haptics",
+"Kinesics",
+"Proxemics"
+],
+"correctAnswer": "Oculesics"
+},
+{
+"question": "Ang pag-aaral ng paghipo o pagdampi (touch) bilang bahagi ng komunikasyon ay tinatawag na:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Chronemics",
+"Paralanguage",
+"Haptics",
+"Kinesics"
+],
+"correctAnswer": "Haptics"
+},
+{
+"question": "Anong uri ng Di-Berbal na Komunikasyon ang sumasaklaw sa paggamit ng oras, tulad ng pagiging huli o paghihintay?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Chronemics",
+"Oculesics",
+"Haptics",
+"Proxemics"
+],
+"correctAnswer": "Chronemics"
+},
+{
+"question": "Alin sa mga sumusunod ang tumutukoy sa pag-aaral ng galaw ng katawan (body language) at ekspresyon ng mukha?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Proxemics",
+"Kinesics",
+"Paralanguage",
+"Chronemics"
+],
+"correctAnswer": "Kinesics"
+},
+{
+"question": "Ang Pagbabahay-bahay ay nagpapakita ng anong katangian ng mga Pilipino sa kaniyang kapwa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagiging mapag-isa",
+"Pagiging bukas",
+"Pagiging pormal",
+"Pagiging matipid"
+],
+"correctAnswer": "Pagiging bukas"
+},
+{
+"question": "Ano ang tinutukoy sa 'Di-Berbal na Komunikasyon'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagpapahayag gamit ang salita.",
+"Pagpapahayag gamit ang wika.",
+"Pagpapahayag nang walang salita o wika.",
+"Pagsusulat ng liham."
+],
+"correctAnswer": "Pagpapahayag nang walang salita o wika."
+},
+{
+"question": "Anong aspeto ng komunikasyon ang binibigyang-diin ni Melba Padilla Maggay na nagdudulot ng 'mataas na antas ng pagkakaalanganin' (high degree of ambiguity)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang labis na paggamit ng Ingles.",
+"Ang hindi lantad o hindi direkta na pagpapahiwatig.",
+"Ang kakulangan sa kaalaman.",
+"Ang pagiging masyadong direkta."
+],
+"correctAnswer": "Ang hindi lantad o hindi direkta na pagpapahiwatig."
+},
+{
+"question": "Ano ang pangunahing layunin ng Pulong-Bayan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Magpista at magdiwang.",
+"Magbigay-alam ang mga kinauukulan sa isang komunidad.",
+"Magdaos ng kasalan.",
+"Magsagawa ng paligsahan."
+],
+"correctAnswer": "Magbigay-alam ang mga kinauukulan sa isang komunidad."
+},
+{
+"question": "Ang ubod ng Sikolohiya ng mga Pilipino, na may kinalaman sa kultura ng pakikipagkapwa, ayon kay Enriquez ay:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagkakaisa",
+"Pakikipagkapwa",
+"Katapatan",
+"Pagsunod"
+],
+"correctAnswer": "Pakikipagkapwa"
+},
+{
+"question": "Ang Berbal na Komunikasyon ay gumagamit ng anong paraan upang maipahayag ang ideya o kaisipan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Tono lamang",
+"Ekspresyon ng mukha",
+"Galaw ng katawan",
+"Salita na tinatawag na wika"
+],
+"correctAnswer": "Salita na tinatawag na wika"
+},
+{
+"question": "Ayon kay Virgilio Enriquez, kailan niya inilathala ang konsepto ng Pakikipagkapwa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1968, 2008",
+"1978, 2016",
+"1985, 2010",
+"1990, 2005"
+],
+"correctAnswer": "1978, 2016"
+},
+{
+"question": "Anong uri ng komunikasyon ang ginagawa sa pamamagitan ng paggamit ng mga simbolo?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Berbal",
+"Di-Berbal",
+"Simboliko",
+"Haptics"
+],
+"correctAnswer": "Di-Berbal"
+},
+{
+"question": "Alin sa mga sumusunod ang halimbawa ng Paralanguage?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagkaway ng kamay",
+"Pagtingin sa mata",
+"Bilis ng pagsasalita",
+"Pagdampi ng balikat"
+],
+"correctAnswer": "Bilis ng pagsasalita"
+},
+{
+"question": "Sa Pilipinong Komunikasyon, ang pag-iwas sa direktang pagsasabi ng 'hindi' ay halimbawa ng:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagiging lantad",
+"Pagiging pormal",
+"Pahiwatig",
+"Pagbabahagi"
+],
+"correctAnswer": "Pahiwatig"
+},
+{
+"question": "Ano ang ipinapakita ng masalimuot na pagkakaugnay ng berbal at di-berbal na anyo ng komunikasyon ng mga Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang Pilipinas ay may low context culture.",
+"Ang Pilipinas ay may high context culture.",
+"Ang mga Pilipino ay laging nagpapalit ng wika.",
+"Ang mga Pilipino ay walang kultura."
+],
+"correctAnswer": "Ang Pilipinas ay may high context culture."
+},
+{
+"question": "Ang 'Pagbabahay-bahay' ay isang Gawing Komunikasyon ng mga Pilipino na nagpapakita ng:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagkakaroon ng pera.",
+"Pagiging magulo.",
+"Pagiging bukas sa kapwa.",
+"Pagiging sarado sa bahay."
+],
+"correctAnswer": "Pagiging bukas sa kapwa."
+},
+{
+"question": "Ayon kay Maggay, anong aspekto ng kultura ang malimit na kinatitisuran ng mga dayuhan sa pakikipag-ugnayan sa mga Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang ating pagiging direkta.",
+"Ang mataas na antas ng pagkakaalanganin.",
+"Ang pagiging mahilig magbiro.",
+"Ang pagiging masyadong pormal."
+],
+"correctAnswer": "Ang mataas na antas ng pagkakaalanganin."
+},
+{
+"question": "Sa konsepto ng 'Pakikipagkapwa,' paano itinuturing ng isang Pilipino ang ibang tao?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Bilang nakatataas",
+"Bilang dayuhan",
+"Bilang kapantay",
+"Bilang kaaway"
+],
+"correctAnswer": "Bilang kapantay"
+},
+{
+"question": "Ayon kay Maggay, ang obserbasyon na ang Pilipinas ay may high context culture ay nagpapatunay sa anong penomeno sa komunikasyong Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagiging direkta",
+"Pahiwatig",
+"Pagsasalita nang malakas",
+"Pagsasama-sama"
+],
+"correctAnswer": "Pahiwatig"
+},
+{
+"question": "Ano ang ibig sabihin ng 'high degree of ambiguity' (mataas na antas ng pagkakaalanganin) sa pakikipag-ugnayan ng mga Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang Pilipino ay laging nagsasabi ng totoo.",
+"Ang Pilipino ay malinaw sa gusto niyang mangyari.",
+"Mahirap tantyahin kung kailan nagsasabi ng oo o hindi ang isang Pilipino.",
+"Ang mga Pilipino ay laging nakangiti."
+],
+"correctAnswer": "Mahirap tantyahin kung kailan nagsasabi ng oo o hindi ang isang Pilipino."
+},
+{
+"question": "Ang Berbal na Komunikasyon ay tumutukoy sa pagpapahayag ng ideya o kaisipan sa pamamagitan ng:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Galaw ng katawan",
+"Salita na tinatawag na wika",
+"Paghipo",
+"Espasyo"
+],
+"correctAnswer": "Salita na tinatawag na wika"
+},
+{
+"question": "Sa Di-Berbal na Komunikasyon, ang **Kinesics** ay pag-aaral ng:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Tono ng boses",
+"Galaw ng katawan (body language)",
+"Paggamit ng oras",
+"Distansiya sa kausap"
+],
+"correctAnswer": "Galaw ng katawan (body language)"
+},
+{
+"question": "Ang bilis, lakas, at tono ng boses ay mga elemento ng **Paralanguage**. Alin sa mga sumusunod ang HINDI kasali sa Paralanguage?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Bilis ng pagsasalita",
+"Lakas ng boses",
+"Ekspresyon ng mukha",
+"Pagbabago ng tono"
+],
+"correctAnswer": "Ekspresyon ng mukha"
+},
+{
+"question": "Ang **Proxemics** ay ang pag-aaral ng:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagdampi o paghipo",
+"Paggamit ng oras",
+"Distansiya o espasyo sa pagitan ng mga tao",
+"Galaw ng mata"
+],
+"correctAnswer": "Distansiya o espasyo sa pagitan ng mga tao"
+},
+{
+"question": "Anong uri ng Di-Berbal na Komunikasyon ang sumasaklaw sa pag-aaral ng **paghipo o pagdampi** (touch)?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kinesics",
+"Chronemics",
+"Haptics",
+"Oculesics"
+],
+"correctAnswer": "Haptics"
+},
+{
+"question": "Kung ang isang Pilipino ay laging huli sa pulong, anong aspeto ng Di-Berbal na Komunikasyon ang nagiging isyu?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Haptics",
+"Chronemics",
+"Proxemics",
+"Kinesics"
+],
+"correctAnswer": "Chronemics"
+},
+{
+"question": "Alin sa mga sumusunod ang sentro ng Sikolohiya at Pilosopikong Konsepto sa Sikolohiyang Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagmamahal sa sarili",
+"Pag-aaral",
+"Pakikipagkapwa",
+"Pagiging masunurin"
+],
+"correctAnswer": "Pakikipagkapwa"
+},
+{
+"question": "Sino ang nagtatag at naglathala ng konsepto ng Pakikipagkapwa noong 1978 at 2016?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Melba Padilla Maggay",
+"Virgilio Enriquez",
+"San Juan, et al.",
+"F. Landa Jocano"
+],
+"correctAnswer": "Virgilio Enriquez"
+},
+{
+"question": "Ang **Pakikipagkapwa** ay nangangahulugan ng pagtanggap sa ibang tao bilang:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mas nakatataas",
+"Alipin",
+"Kapantay",
+"Dayuhan"
+],
+"correctAnswer": "Kapantay"
+},
+{
+"question": "Ang Pagbabahay-bahay ay nagpapakita ng pagiging bukas ng mga Pilipino. Anong katangian ang dapat taglayin ng nagsasagawa nito bilang paggalang sa oras ng maybahay?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagka-agresibo",
+"Sensibilidad",
+"Pagka-direkta",
+"Pagka-mapagmataas"
+],
+"correctAnswer": "Sensibilidad"
+},
+{
+"question": "Anong gawain sa komunikasyon ang isinasagawa upang magbigay-alam ang mga kinauukulan sa isang komunidad sa gitna ng publiko?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagsasayaw",
+"Pagtitipon ng pamilya",
+"Pulong-Bayan",
+"Pagsusulat ng liham"
+],
+"correctAnswer": "Pulong-Bayan"
+},
+{
+"question": "Ayon kina San Juan, et al., saan isinasagawa ang Pulong-Bayan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Sa loob ng opisina lamang",
+"Sa gitna ng publiko",
+"Sa bahay ng kapitan",
+"Sa paaralan lamang"
+],
+"correctAnswer": "Sa gitna ng publiko"
+},
+{
+"question": "Anong bahagi ng katawan ang ginagamit sa **Oculesics**?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kamay",
+"Mata",
+"Paa",
+"Tainga"
+],
+"correctAnswer": "Mata"
+},
+{
+"question": "Kung ang isang tao ay gumagamit ng malaking espasyo o distansiya sa kausap, anong uri ng Di-Berbal na Komunikasyon ang ipinapakita?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Haptics",
+"Oculesics",
+"Proxemics",
+"Paralanguage"
+],
+"correctAnswer": "Proxemics"
+},
+{
+"question": "Ang mga Pilipino ay may masalimuot na pagkakaugnay ng berbal at 'di-berbal na anyo ng komunikasyon. Ano ang patunay dito?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mabilis tayong magsalita.",
+"Tayu ay may low context culture.",
+"Tayu ay may high context culture.",
+"Hindi tayo mahilig makipag-usap."
+],
+"correctAnswer": "Tayu ay may high context culture."
+},
+{
+"question": "Alin sa mga sumusunod ang tumutukoy sa 'Di-Berbal na Komunikasyon'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Paggamit ng boses at salita.",
+"Paggamit ng kilos at simbolo.",
+"Pagsusulat lamang.",
+"Pagpapahayag ng kaisipan gamit ang wika."
+],
+"correctAnswer": "Paggamit ng kilos at simbolo."
+},
+{
+"question": "Ang pagkakaalanganin sa komunikasyong Pilipino ay tumutukoy sa kahirapan ng dayuhan na itantya ang anong sagot ng Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Ang kanilang pangalan.",
+"Kung kailan sila nagsasabi ng 'oo' at 'hindi'.",
+"Ang kanilang edad.",
+"Ang kanilang tirahan."
+],
+"correctAnswer": "Kung kailan sila nagsasabi ng 'oo' at 'hindi'."
+},
+{
+"question": "Ang **pahiwatig** ay nagpapahiwatig na ang mensaheng nais iparating ay:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Lantad o direkta",
+"Malinaw at tiyak",
+"Hindi lantad o hindi direkta",
+"Hindi nauunawaan"
+],
+"correctAnswer": "Hindi lantad o hindi direkta"
+},
+{
+"question": "Ang Pagbabahay-bahay ay isang gawing komunikasyon na nagpapakita ng pagiging **bukas** ng mga Pilipino sa kaniyang:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Sarili",
+"Kapwa",
+"Tahanan",
+"Negosyo"
+],
+"correctAnswer": "Kapwa"
+},
+{
+"question": "Anong uri ng Komunikasyon ang gumagamit ng **wika**?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Di-Berbal",
+"Haptics",
+"Berbal",
+"Proxemics"
+],
+"correctAnswer": "Berbal"
+},
+{
+"question": "Ang Galaw ng Mata (eye contact) sa **Oculesics** ay isang halimbawa ng anong uri ng Komunikasyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Berbal",
+"Di-Berbal",
+"Lantad",
+"Direkta"
+],
+"correctAnswer": "Di-Berbal"
+},
+{
+"question": "Sa **Pulong-Bayan**, sino ang nagtitipon kasama ang publiko?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mga dayuhan",
+"Mga negosyante",
+"Mga kinauukulan",
+"Mga turista"
+],
+"correctAnswer": "Mga kinauukulan"
+},
+{
+"question": "Ayon kay Melba Padilla Maggay, ang pagkakaalanganin sa pakikipag-ugnayan ay isang aspekto ng ating:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Teknolohiya",
+"Ekonomiya",
+"Kultura",
+"Wika lamang"
+],
+"correctAnswer": "Kultura"
+},
+{
+"question": "Anong taon inilathala ni Melba Padilla Maggay ang kanyang obserbasyon tungkol sa high context culture at mataas na antas ng pagkakaalanganin sa komunikasyong Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"1978",
+"2010",
+"2002",
+"1995"
+],
+"correctAnswer": "2002"
+},
+{
+"question": "Sino ang awtor na nagsabing ang Pakikipagkapwa ang pinakamahalagang Sikolohiko at Pilosopikong Konsepto sa Sikolohiyang Pilipino?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Melba Padilla Maggay",
+"Virgilio Enriquez",
+"F. Landa Jocano",
+"San Juan, et al."
+],
+"correctAnswer": "Virgilio Enriquez"
+},
+{
+"question": "Ang tono ng pagsasalita, bilis, at lakas ng boses ay tumutukoy sa anong uri ng Di-Berbal na Komunikasyon?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Oculesics",
+"Chronemics",
+"Paralanguage",
+"Kinesics"
+],
+"correctAnswer": "Paralanguage"
+},
+{
+"question": "Sa konseptong 'Pakikipagkapwa,' paano dapat ituring ang ibang tao?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Bilang superior",
+"Bilang alipin",
+"Bilang kapantay",
+"Bilang kaaway"
+],
+"correctAnswer": "Bilang kapantay"
+},
+{
+"question": "Alin sa mga sumusunod ang Di-Berbal na Komunikasyon na tumutukoy sa pag-aaral ng distansiya o espasyo?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Haptics",
+"Proxemics",
+"Oculesics",
+"Kinesics"
+],
+"correctAnswer": "Proxemics"
+},
+{
+"question": "Ang 'Pagbabahay-bahay' ay nagpapakita ng anong katangian ng mga Pilipino sa pakikipag-ugnayan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagiging pormal",
+"Pagiging bukas",
+"Pagiging lihim",
+"Pagiging magagalitin"
+],
+"correctAnswer": "Pagiging bukas"
+},
+{
+"question": "Anong gawain ang isinasagawa ng Pulong-Bayan?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Magdaos ng kasalan",
+"Magbigay-alam ang mga kinauukulan sa komunidad",
+"Maglaba ng damit",
+"Magsagawa ng sayawan"
+],
+"correctAnswer": "Magbigay-alam ang mga kinauukulan sa komunidad"
+},
+{
+"question": "Ang masalimuot na pagkakaugnay ng berbal at 'di-berbal na anyo ng komunikasyon ng mga Pilipino ay nagpapatunay na ang Pilipinas ay may anong uri ng kultura?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Low context culture",
+"High context culture",
+"Individualistic culture",
+"Monochronic culture"
+],
+"correctAnswer": "High context culture"
+},
+{
+"question": "Ano ang ibig sabihin ng 'pahiwatig'?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagiging lantad at direkta",
+"Hindi lantad o hindi direkta ang mensahe",
+"Pagpapahayag nang malakas",
+"Pagsasabi ng walang kabuluhan"
+],
+"correctAnswer": "Hindi lantad o hindi direkta ang mensahe"
+},
+{
+"question": "Ang Berbal na Komunikasyon ay gumagamit ng:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mga kamay",
+"Mga simbolo",
+"Salita na tinatawag na wika",
+"Pag-iwas sa mata"
+],
+"correctAnswer": "Salita na tinatawag na wika"
+},
+{
+"question": "Ang Di-Berbal na Komunikasyon ay gumagamit ng:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagsusulat",
+"Pagpapahayag nang walang salita o wika",
+"Pag-awit",
+"Pag-e-mail"
+],
+"correctAnswer": "Pagpapahayag nang walang salita o wika"
+},
+{
+"question": "Anong gawing Komunikasyon ang nangangailangan ng 'sensibilidad' mula sa indibidwal upang bigyang-halaga ang panahong ibinigay ng maybahay?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pulong-Bayan",
+"Pagdalo sa kasalan",
+"Pagbabahay-bahay",
+"Pakikipagtalo"
+],
+"correctAnswer": "Pagbabahay-bahay"
+},
+{
+"question": "Alin sa mga sumusunod ang tumutukoy sa Di-Berbal na Komunikasyon na nauukol sa pag-aaral ng paghipo o pagdampi?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kinesics",
+"Proxemics",
+"Haptics",
+"Chronemics"
+],
+"correctAnswer": "Haptics"
+},
+{
+"question": "Ang 'Pagkakaalanganin' (ambiguity) sa komunikasyon ay pinakamalimit na kinatitisuran ng sino, ayon kay Maggay?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mga bata",
+"Mga dayuhan",
+"Mga magulang",
+"Mga guro"
+],
+"correctAnswer": "Mga dayuhan"
+},
+{
+"question": "Sa anong lugar isinasagawa ang Pulong-Bayan, ayon kina San Juan, et al.?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Sa gitna ng publiko",
+"Sa mga saradong silid-aralan",
+"Sa simbahan",
+"Sa bahay lamang"
+],
+"correctAnswer": "Sa gitna ng publiko"
+},
+{
+"question": "Ang **Oculesics** ay Di-Berbal na Komunikasyon na may kinalaman sa:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Galaw ng kamay",
+"Galaw ng mata (eye contact)",
+"Paggamit ng oras",
+"Tindig ng katawan"
+],
+"correctAnswer": "Galaw ng mata (eye contact)"
+},
+{
+"question": "Ang sentro ng Sikolohiya ng mga Pilipino, na may kinalaman sa kultura ng pakikipagkapwa, ay:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Kagandahang-loob",
+"Utang-na-loob",
+"Pakikipagkapwa",
+"Hiya"
+],
+"correctAnswer": "Pakikipagkapwa"
+},
+{
+"question": "Alin sa mga sumusunod ang HINDI kabilang sa mga elemento ng **Paralanguage**?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Bilis ng pagsasalita",
+"Ekspresyon ng mukha",
+"Lakas ng boses",
+"Pagbabago ng tono"
+],
+"correctAnswer": "Ekspresyon ng mukha"
+},
+{
+"question": "Kung ang isang Pilipino ay nagpapakita ng *pahiwatig*, ang mensahe ay madalas:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Direkta",
+"Lantaran",
+"May mataas na antas ng pagkakaalanganin",
+"Madaling intindihin"
+],
+"correctAnswer": "May mataas na antas ng pagkakaalanganin"
+},
+{
+"question": "Anong Di-Berbal na Komunikasyon ang sumasaklaw sa pag-aaral ng oras, tulad ng pagiging *on time* o *late*?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Proxemics",
+"Kinesics",
+"Chronemics",
+"Haptics"
+],
+"correctAnswer": "Chronemics"
+},
+{
+"question": "Ang Pulong-Bayan ay isang pagtitipon ng publiko at sino pa?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Mga kaaway",
+"Mga kinauukulan",
+"Mga artista",
+"Mga taga-ibang bansa"
+],
+"correctAnswer": "Mga kinauukulan"
+},
+{
+"question": "Ang **Kinesics** ay ang pag-aaral ng:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Pagdampi",
+"Galaw ng katawan",
+"Pag-iwas sa kausap",
+"Pagsasabi ng salita"
+],
+"correctAnswer": "Galaw ng katawan"
+},
+{
+"question": "Ang Pagbabahay-bahay ay nagpapamalas ng pagiging bukas ng Pilipino sa kaniyang:",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Trabaho",
+"Negosyo",
+"Kapwa",
+"Lupa"
+],
+"correctAnswer": "Kapwa"
+},
+{
+"question": "Ang 'high degree of ambiguity' (mataas na antas ng pagkakaalanganin) ay tumutukoy sa kahirapan na itantya kung kailan nagsasabi ang Pilipino ng **oo** o **hindi**, at kung ano talaga ang gusto nilang mangyari. Kanino nagmumula ang obserbasyon na ito?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Virgilio Enriquez",
+"C. E. Folsome",
+"Melba Padilla Maggay",
+"San Juan, et al."
+],
+"correctAnswer": "Melba Padilla Maggay"
+},
+{
+"question": "Ang Pagbabahay-bahay ay isang gawing Komunikasyon na kung saan nagpapakita ng pagiging bukas ng Pilipino sa kapwa. Ano ang dapat gawin ng nagsasagawa nito bilang paggalang?",
+"type": "MULTIPLE_CHOICE",
+"points": 1,
+"choices": [
+"Iwasan ang pakikipag-usap.",
+"Bigyang-halaga ang panahong ipinagkaloob ng maybahay.",
+"Maging maingay at magulo.",
+"Huwag pansinin ang maybahay."
+],
+"correctAnswer": "Bigyang-halaga ang panahong ipinagkaloob ng maybahay."
+}
+]
+}
