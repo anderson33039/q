@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Biotechnology Quiz or smth</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>📘 Biotechnology Quiz Set</h1>
+
+    <label for="quizFile">Select Quiz:</label>
+    <select id="quizFile">
+      <option value="" hidden>-- Choose a Quiz --</option>
+      <option value="quiz/the-historical-development-of-biotechnology2025.json">The Historical Development of Biotechnology 2025</option>
+      <option value="quiz/cells-the-foundation-of-life2025A.json">Cells the foundation of life (A) 2025</option>
+      <option value="quiz/cells-the-foundation-of-life2025B.json">Cells the foundation of life (B) 2025</option>
+    </select>
+
+    <button id="loadQuiz">Load Quiz</button>
+
+    <h2 id="quizTitle"></h2>
+
+    <form id="quizForm"></form>
+
+    <div class="controls">
+      <button id="nextPart" style="display:none;">Next Part ➡️</button>
+      <button id="submitQuiz" style="display:none;">Submit Answers ✅</button>
+    </div>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

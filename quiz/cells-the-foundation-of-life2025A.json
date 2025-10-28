@@ -1,0 +1,1205 @@
+{
+  "title": "Cells: The Foundation of Life Quiz",
+  "questions": [
+      {
+        "question": "The measurement unit **micrometer (µm)**, commonly used for measuring cells, is equal to what fraction of a meter?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "One hundredth of a meter (1/100)",
+          "One thousandth of a meter (1/1,000)",
+          "One millionth of a meter (1/1,000,000)",
+          "One billionth of a meter (1/1,000,000,000)"
+        ],
+        "correctAnswer": "One millionth of a meter (1/1,000,000)"
+      },
+      {
+        "question": "Which of the following is a component that **all cells** have in common, regardless of type?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Nucleus",
+          "Mitochondria",
+          "Ribosomes",
+          "Endoplasmic Reticulum"
+        ],
+        "correctAnswer": "Ribosomes"
+      },
+      {
+        "question": "In the hierarchy of biological organization, the level that immediately precedes the **cell** level is the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Organism",
+          "Organelle",
+          "Tissue",
+          "Molecule"
+        ],
+        "correctAnswer": "Tissue"
+      },
+      {
+        "question": "Prokaryotic cells are characterized by the absence of:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "A cell wall",
+          "DNA",
+          "Membrane-bound organelles",
+          "Cytoplasm"
+        ],
+        "correctAnswer": "Membrane-bound organelles"
+      },
+      {
+        "question": "The prefix **'pro-'** in Prokaryotic means:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "First",
+          "Before",
+          "True",
+          "Simple"
+        ],
+        "correctAnswer": "Before"
+      },
+      {
+        "question": "Prokaryotic cells are classified into which two Kingdoms?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Plantae and Animalia",
+          "Protista and Fungi",
+          "Archaebacteria and Eubacteria",
+          "Eukaryota and Bacteria"
+        ],
+        "correctAnswer": "Archaebacteria and Eubacteria"
+      },
+      {
+        "question": "Eukaryotic cells are described as having evolved approximately how long ago?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "7000 BCE",
+          "1800 years ago",
+          "2.1 billion years ago",
+          "100 million years ago"
+        ],
+        "correctAnswer": "2.1 billion years ago"
+      },
+      {
+        "question": "The term **'karyon'** in Eukaryotic refers to:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "True",
+          "Before",
+          "Unicellular",
+          "Nucleus"
+        ],
+        "correctAnswer": "Nucleus"
+      },
+      {
+        "question": "In the comparison of cell types, the DNA form in a **Prokaryote** is typically:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Linear",
+          "Circular",
+          "Coiled in chromatin",
+          "Contained within a nucleus"
+        ],
+        "correctAnswer": "Circular"
+      },
+      {
+        "question": "Compared to eukaryotic cells (10-100 µm), prokaryotic cells are typically much **smaller**, ranging in size from:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "0.01 - 0.1 µm",
+          "0.1 - 5 µm",
+          "100 - 500 µm",
+          "5 - 10 µm"
+        ],
+        "correctAnswer": "0.1 - 5 µm"
+      },
+      {
+        "question": "Which kingdoms are composed of **Eukaryotic** cells?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Archaea, Bacteria, and Protista",
+          "Protista, Fungi, Plantae, and Animalia",
+          "Archaebacteria and Eubacteria",
+          "Animals, Bacteria, and Fungi"
+        ],
+        "correctAnswer": "Protista, Fungi, Plantae, and Animalia"
+      },
+      {
+        "question": "Which of the following eukaryotic organelles is the primary site of **protein synthesis**?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Nucleus",
+          "Endoplasmic Reticulum",
+          "Ribosomes",
+          "Lysosomes"
+        ],
+        "correctAnswer": "Ribosomes"
+      },
+      {
+        "question": "The **Nucleus** is responsible for which main function in the eukaryotic cell?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Energy Processing",
+          "Structural Support",
+          "Genetic Control",
+          "Waste Breakdown"
+        ],
+        "correctAnswer": "Genetic Control"
+      },
+      {
+        "question": "The **Endoplasmic Reticulum (ER)** is dedicated primarily to what process?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Photosynthesis",
+          "Energy production",
+          "Protein maturation and transportation",
+          "Storing genetic information"
+        ],
+        "correctAnswer": "Protein maturation and transportation"
+      },
+      {
+        "question": "Which organelle receives proteins and lipids from the ER, makes modifications, and then **distributes** them to other parts of the cell or out of the cell?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Lysosome",
+          "Mitochondria",
+          "Golgi Apparatus",
+          "Vacuole"
+        ],
+        "correctAnswer": "Golgi Apparatus"
+      },
+      {
+        "question": "Often called the cell's **'cleanup crew'**, this organelle breaks down proteins, carbohydrates, and foreign material like bacteria:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Lysosome",
+          "Nucleus",
+          "Ribosome",
+          "Cell Wall"
+        ],
+        "correctAnswer": "Lysosome"
+      },
+      {
+        "question": "The main role of the **Vacuole** in a cell (especially in plants) is:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Energy production",
+          "Genetic storage",
+          "Storage of nutrients, enzymes, and waste",
+          "Protein synthesis"
+        ],
+        "correctAnswer": "Storage of nutrients, enzymes, and waste"
+      },
+      {
+        "question": "What is the common nickname for **Mitochondria** due to its role in breaking down food nutrients to supply the cell with energy?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Cell's Cleanup Crew",
+          "Genetic Control Center",
+          "Powerhouses of the cell",
+          "Transportation Hub"
+        ],
+        "correctAnswer": "Powerhouses of the cell"
+      },
+      {
+        "question": "**Chloroplasts** use the sun's energy to make carbohydrates, a process only possible because they contain what green pigment?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Chromatin",
+          "Chlorophyll",
+          "Carotenoid",
+          "Cytosol"
+        ],
+        "correctAnswer": "Chlorophyll"
+      },
+      {
+        "question": "Which type of **Plastids** is responsible for manufacturing the pigments that give fruits their color and leaves their brilliant color in the fall?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Leucoplasts",
+          "Chloroplasts",
+          "Vacuoles",
+          "Chromoplasts"
+        ],
+        "correctAnswer": "Chromoplasts"
+      },
+      {
+        "question": "**Leucoplasts** are a type of Plastid that provides storage for the cell and may contain:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Genetic code",
+          "Ribosomes and Pili",
+          "Starches, protein, or lipids",
+          "Water and cell waste"
+        ],
+        "correctAnswer": "Starches, protein, or lipids"
+      },
+      {
+        "question": "What component provides internal structure for the cell, allows for cell movement, and plays a role in cell division?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Endomembrane system",
+          "Cytoskeleton",
+          "Plasma Membrane",
+          "Nucleolus"
+        ],
+        "correctAnswer": "Cytoskeleton"
+      },
+      {
+        "question": "The **Fluid Mosaic Model** of the plasma membrane was proposed by which two scientists?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Watson and Crick",
+          "Singer and Nicolson",
+          "Mendel and Johannsen",
+          "Cohen and Boyer"
+        ],
+        "correctAnswer": "Singer and Nicolson"
+      },
+      {
+        "question": "The **Cell Membrane** regulates the movement of materials into and out of the cell, as well as allowing:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "DNA to be stored",
+          "Protein synthesis to occur",
+          "Interaction with other cells",
+          "Genetic material to circulate freely"
+        ],
+        "correctAnswer": "Interaction with other cells"
+      },
+      {
+        "question": "The **Cell Wall** in a plant cell is composed primarily of what substance, which gives the cell its shape and provides protection?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Phospholipid bilayer",
+          "Cellulose",
+          "Starch",
+          "Protein"
+        ],
+        "correctAnswer": "Cellulose"
+      },
+      {
+        "question": "The definition of life by C. E. Folsome (1979) states that life ultimately is driven by what energy source to attain maximum complexity?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Chemical energy",
+          "Geothermal energy",
+          "Radiant energy",
+          "Mechanical energy"
+        ],
+        "correctAnswer": "Radiant energy"
+      },
+      {
+        "question": "The size of a typical human egg, as shown on the logarithmic scale, falls within the range visible by the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Electron microscope",
+          "Light microscope",
+          "Naked eye",
+          "X-ray crystallography"
+        ],
+        "correctAnswer": "Naked eye"
+      },
+      {
+        "question": "In the biological organization hierarchy, the level immediately more complex than the **Organism** is the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Population",
+          "Organ system",
+          "Community",
+          "Tissue"
+        ],
+        "correctAnswer": "Organ system"
+      },
+      {
+        "question": "Which of the following is NOT listed as a component that **all cells** (prokaryotic and eukaryotic) possess?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "DNA",
+          "Plasma membrane",
+          "Cytoplasm",
+          "Mitochondria"
+        ],
+        "correctAnswer": "Mitochondria"
+      },
+      {
+        "question": "Which of the following describes the cellular structure of **Prokaryotic Cells**?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Mostly multicellular",
+          "Simple structure, unicellular",
+          "Complex of many cells",
+          "Large (10-100 µm)"
+        ],
+        "correctAnswer": "Simple structure, unicellular"
+      },
+      {
+        "question": "The genetic material in a prokaryotic cell is found in an area called the **Nucleoid**. How is the DNA typically described in terms of its form?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Linear",
+          "Spiral",
+          "Circular",
+          "Intertwined"
+        ],
+        "correctAnswer": "Circular"
+      },
+      {
+        "question": "The prefix **'eu-'** in Eukaryotic means:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "False",
+          "Before",
+          "True",
+          "Unbounded"
+        ],
+        "correctAnswer": "True"
+      },
+      {
+        "question": "The presence of a **membrane-enclosed nucleus** is a key feature that distinguishes a Eukaryotic cell from a Prokaryotic cell. This nucleus stores genetic information in what form?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Plasmid",
+          "Ribosome",
+          "Chromatin",
+          "Capsule"
+        ],
+        "correctAnswer": "Chromatin"
+      },
+      {
+        "question": "According to the comparison table, Eukaryotic cells are described as having a **more complex** structure than Prokaryotic cells, which are described as:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Larger",
+          "Simpler",
+          "Semi-rigid",
+          "True-nucleused"
+        ],
+        "correctAnswer": "Simpler"
+      },
+      {
+        "question": "Which of the following is an example of an organism composed of **Prokaryotic** cells?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Plants",
+          "Fungi",
+          "Archaea",
+          "Protists"
+        ],
+        "correctAnswer": "Archaea"
+      },
+      {
+        "question": "Which of the following is considered one of the four main categories of Eukaryotic Cell Components/Features?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Pili",
+          "Endomembrane system",
+          "Nucleoid",
+          "Capsule"
+        ],
+        "correctAnswer": "Endomembrane system"
+      },
+      {
+        "question": "In the context of Eukaryotic Cell Structure and Functions, the **Endoplasmic Reticulum** and **Golgi Apparatus** fall under which functional category?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Genetic Control",
+          "Energy Processing",
+          "Structural Support",
+          "Manufacturing, Distribution and Breakdown"
+        ],
+        "correctAnswer": "Manufacturing, Distribution and Breakdown"
+      },
+      {
+        "question": "What is the primary function of the **Nucleolus** in a eukaryotic cell?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Protein maturation",
+          "Ribosome synthesis",
+          "Genetic information storage",
+          "Cell movement"
+        ],
+        "correctAnswer": "Ribosome synthesis"
+      },
+      {
+        "question": "What part of the cell is the **Endoplasmic Reticulum (ER)** dedicated to, besides maturation, when it comes to proteins?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Detection",
+          "Synthesis",
+          "Transportation",
+          "Recycling"
+        ],
+        "correctAnswer": "Transportation"
+      },
+      {
+        "question": "The **Golgi Apparatus** makes some modifications to the proteins and lipids it receives from the ER before it performs what final step?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Replication",
+          "Secretion (distribution)",
+          "Absorption",
+          "Digestion"
+        ],
+        "correctAnswer": "Secretion (distribution)"
+      },
+      {
+        "question": "Besides breaking down molecules and foreign material, what other role do **Lysosomes** serve for the cell?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Energy production",
+          "Genetic control",
+          "Cleanup crew",
+          "Structural support"
+        ],
+        "correctAnswer": "Cleanup crew"
+      },
+      {
+        "question": "Vacuoles are described as providing storage space for what material, which is 'given off by the cell'?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Enzymes",
+          "Waste materials",
+          "Chlorophyll",
+          "Starches"
+        ],
+        "correctAnswer": "Waste materials"
+      },
+      {
+        "question": "In addition to breaking down food nutrients to supply the cell with energy, **Mitochondria** are known for their role in which process?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Photosynthesis",
+          "Cell division",
+          "Cell movement",
+          "Cellular respiration (implied by energy production)"
+        ],
+        "correctAnswer": "Cellular respiration (implied by energy production)"
+      },
+      {
+        "question": "Which part of the **Fluid Mosaic Model** forms the two layers of the cell membrane?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Transmembrane protein",
+          "Hydrophilic chain",
+          "Phospholipid bilayer",
+          "Carbohydrate side chain"
+        ],
+        "correctAnswer": "Phospholipid bilayer"
+      },
+      {
+        "question": "In the plasma membrane, the **Hydrophobic region** is typically oriented towards the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Inside of the membrane (away from water)",
+          "Outside of the cell (towards water)",
+          "Extracellular matrix",
+          "Cytoskeleton"
+        ],
+        "correctAnswer": "Inside of the membrane (away from water)"
+      },
+      {
+        "question": "What is the primary structural component of the rigid **Cell Wall** found in plant cells?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Starch",
+          "Protein",
+          "Cellulose",
+          "Lipid"
+        ],
+        "correctAnswer": "Cellulose"
+      },
+      {
+        "question": "The **Cytoskeleton** plays a role in cell movement, providing structure, and assisting in:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Protein transport",
+          "Cell division",
+          "Waste storage",
+          "Genetic transcription"
+        ],
+        "correctAnswer": "Cell division"
+      },
+      {
+        "question": "What is the term for the watery liquid component of the cytoplasm found inside the cell, as labeled in the Eukaryotic cell diagram?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Nucleolus",
+          "Mitochondrion",
+          "Cytosol",
+          "Endoplasmic Reticulum"
+        ],
+        "correctAnswer": "Cytosol"
+      },
+      {
+        "question": "Prokaryotic cells, such as the one illustrated, often have hair-like structures used for attachment to other cells or surfaces. These are referred to as:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Flagellum",
+          "Pili",
+          "Capsule",
+          "Nucleoid"
+        ],
+        "correctAnswer": "Pili"
+      },
+      {
+        "question": "Which type of blood cell is characterized by its small, biconcave shape and is labeled as a 'Red blood cell' in the 'Types of Cells' diagram?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Lymphocyte",
+          "Monocyte",
+          "Eosinophil",
+          "Neutrophil (not mentioned, but Red Blood cell is the only non-white cell option)"
+        ],
+        "correctAnswer": "Neutrophil (Not listed, but Red blood cell is distinct from the White Blood cell options)"
+      },
+      {
+        "question": "Which of the following is considered the **fundamental unit of life**?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Organ",
+          "Molecule",
+          "Cell",
+          "Tissue"
+        ],
+        "correctAnswer": "Cell"
+      },
+      {
+        "question": "According to the biological organization hierarchy, which level is immediately less complex than the **Organelle** level?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Molecule",
+          "Tissue",
+          "Cell",
+          "Organ"
+        ],
+        "correctAnswer": "Molecule"
+      },
+      {
+        "question": "In the comparison of cell characteristics, the **Cell Wall** is a feature found in Prokaryotes but is absent in what type of Eukaryotic cell?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Plant cells",
+          "Animal cells",
+          "Fungi cells",
+          "Protist cells"
+        ],
+        "correctAnswer": "Animal cells"
+      },
+      {
+        "question": "In Prokaryotes, the DNA is located in the **Nucleoid** region, which is best described as being:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Enclosed by a membrane",
+          "Enclosed by a cell wall",
+          "A membrane-less region",
+          "A lipid layer"
+        ],
+        "correctAnswer": "A membrane-less region"
+      },
+      {
+        "question": "Prokaryotic cells have no membrane-bound organelles, meaning they lack structures like mitochondria and:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Plasma membrane",
+          "Ribosomes",
+          "Endoplasmic Reticulum (ER)",
+          "Cytoplasm"
+        ],
+        "correctAnswer": "Endoplasmic Reticulum (ER)"
+      },
+      {
+        "question": "What is the primary mode of reproduction for **Prokaryotic Cells**?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Meiosis",
+          "Sexual reproduction",
+          "Binary fission",
+          "Mitosis"
+        ],
+        "correctAnswer": "Binary fission"
+      },
+      {
+        "question": "The **Nucleus** is enclosed by a double membrane called the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Plasma membrane",
+          "Cell wall",
+          "Nuclear envelope",
+          "Cytoskeleton"
+        ],
+        "correctAnswer": "Nuclear envelope"
+      },
+      {
+        "question": "The **Ribosomes** in Eukaryotic cells are responsible for synthesizing:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Lipids",
+          "Carbohydrates",
+          "Proteins",
+          "Nucleic acids"
+        ],
+        "correctAnswer": "Proteins"
+      },
+      {
+        "question": "The **Rough Endoplasmic Reticulum (RER)** is distinguished from the smooth ER by the presence of what structures on its surface?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Mitochondria",
+          "Lysosomes",
+          "Ribosomes",
+          "Vacuoles"
+        ],
+        "correctAnswer": "Ribosomes"
+      },
+      {
+        "question": "What happens to the proteins and lipids once they exit the **Golgi Apparatus**?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "They are stored indefinitely in the vacuole",
+          "They move to the nucleus for genetic control",
+          "They are distributed to other parts of the cell or outside the cell",
+          "They are broken down by the lysosome"
+        ],
+        "correctAnswer": "They are distributed to other parts of the cell or outside the cell"
+      },
+      {
+        "question": "The **Vacuoles** of animal cells are generally **smaller** than those in plant cells and are mainly involved in:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Photosynthesis",
+          "Storage and digestion",
+          "Cellular respiration",
+          "Structural support"
+        ],
+        "correctAnswer": "Storage and digestion"
+      },
+      {
+        "question": "The folding of the inner membrane of the **Mitochondria** is called the **cristae**. This folding increases the surface area for what process?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "DNA storage",
+          "Energy generation",
+          "Waste removal",
+          "Ribosome synthesis"
+        ],
+        "correctAnswer": "Energy generation"
+      },
+      {
+        "question": "The process where **Chloroplasts** use solar energy to make carbohydrates is known as:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Cellular Respiration",
+          "Fermentation",
+          "Photosynthesis",
+          "Transcription"
+        ],
+        "correctAnswer": "Photosynthesis"
+      },
+      {
+        "question": "**Chromoplasts** contain pigments like carotenoids that give color to fruits and leaves. What is the main purpose of this coloration?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "To assist in photosynthesis",
+          "To store excess water",
+          "To attract animals for seed dispersal",
+          "To provide structural support"
+        ],
+        "correctAnswer": "To attract animals for seed dispersal"
+      },
+      {
+        "question": "The three components of the **Cytoskeleton** are microfilaments, intermediate filaments, and:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Microbodies",
+          "Microtubules",
+          "Microvacuoles",
+          "Microsomes"
+        ],
+        "correctAnswer": "Microtubules"
+      },
+      {
+        "question": "In the **Fluid Mosaic Model**, which component is responsible for regulating the passage of large molecules and ions across the membrane?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Cholesterol",
+          "Transmembrane proteins",
+          "Phospholipid tails",
+          "Carbohydrate side chains"
+        ],
+        "correctAnswer": "Transmembrane proteins"
+      },
+      {
+        "question": "The **Cell Membrane** is said to be **selectively permeable**. What does this term mean?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "It allows all substances to pass through freely",
+          "It is rigid and impermeable",
+          "It controls which substances can enter and leave the cell",
+          "It is made entirely of lipids"
+        ],
+        "correctAnswer": "It controls which substances can enter and leave the cell"
+      },
+      {
+        "question": "What is the primary function of the **Cell Wall** in a plant cell, besides providing shape and protection?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Protein synthesis",
+          "Energy production",
+          "Support against osmotic pressure (turgor pressure)",
+          "Genetic control"
+        ],
+        "correctAnswer": "Support against osmotic pressure (turgor pressure)"
+      },
+      {
+        "question": "Which component of the biological organization hierarchy immediately precedes the **Ecosystem** level?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Population",
+          "Biosphere",
+          "Community",
+          "Organism"
+        ],
+        "correctAnswer": "Community"
+      },
+      {
+        "question": "According to the logarithmic scale in the handout, most bacteria are only visible using a(n):",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Naked eye",
+          "Light microscope",
+          "Electron microscope",
+          "Telescope"
+        ],
+        "correctAnswer": "Light microscope"
+      },
+      {
+        "question": "What component of the Prokaryotic cell is a sticky, gelatinous protective layer that can surround the cell wall?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Capsule",
+          "Flagellum",
+          "Pili",
+          "Plasma membrane"
+        ],
+        "correctAnswer": "Capsule"
+      },
+      {
+        "question": "What is the function of the **Flagellum** found on some Prokaryotic cells?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Attachment to surfaces",
+          "Waste storage",
+          "Movement/locomotion",
+          "DNA replication"
+        ],
+        "correctAnswer": "Movement/locomotion"
+      },
+      {
+        "question": "The **Rough ER** synthesizes proteins, while the **Smooth ER** is primarily involved in the synthesis of:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Carbohydrates and nucleic acids",
+          "Lipids (fats) and steroid hormones",
+          "Ribosomal RNA (rRNA)",
+          "DNA and Chromatin"
+        ],
+        "correctAnswer": "Lipids (fats) and steroid hormones"
+      },
+      {
+        "question": "What type of cell is illustrated in the handout by the image of an elongated cell with a long tail-like structure, essential for reproduction?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Neuron (Nerve cell)",
+          "Sperm cell",
+          "Epithelial cell",
+          "Muscle cell"
+        ],
+        "correctAnswer": "Sperm cell"
+      },
+      {
+        "question": "The **Peroxisomes** (microbodies) are small organelles found in the cytoplasm and are primarily involved in:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Detoxification and breaking down fatty acids",
+          "Genetic control and replication",
+          "Photosynthesis and energy storage",
+          "Cell-to-cell communication"
+        ],
+        "correctAnswer": "Detoxification and breaking down fatty acids"
+      },
+      {
+        "question": "Which level of biological organization is immediately more complex than the \"community\" level?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Population",
+          "Organ system",
+          "Ecosystem",
+          "Organism"
+        ],
+        "correctAnswer": "Ecosystem"
+      },
+      {
+        "question": "The \"Plasma Membrane\" is one of the four components that all cells have. It is also known as the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Cell wall",
+          "Nuclear envelope",
+          "Cell membrane",
+          "Capsule"
+        ],
+        "correctAnswer": "Cell membrane"
+      },
+      {
+        "question": "The genetic material of a \"Prokaryotic Cell\" is found in the \"Nucleoid\" region, which differs from a Eukaryotic nucleus because it lacks a:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Ribosome",
+          "DNA molecule",
+          "Membrane/nuclear envelope",
+          "Cell wall"
+        ],
+        "correctAnswer": "Membrane/nuclear envelope"
+      },
+      {
+        "question": "What is the typical size range of a \"Eukaryotic Cell\" in micrometers (µm)?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "0.1 - 5 µm",
+          "10 - 100 µm",
+          "100 - 500 µm",
+          "1 - 10 µm"
+        ],
+        "correctAnswer": "10 - 100 µm"
+      },
+      {
+        "question": "Organisms in the Kingdom \"Protista\" are composed of which type of cells?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Prokaryotic",
+          "Archaebacterial",
+          "Eubacterial",
+          "Eukaryotic"
+        ],
+        "correctAnswer": "Eukaryotic"
+      },
+      {
+        "question": "What is the collective term for the watery liquid and all the organelles found within the plasma membrane, excluding the nucleus?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Nucleoid",
+          "Cytoskeleton",
+          "Cytoplasm",
+          "Chromatin"
+        ],
+        "correctAnswer": "Cytoplasm"
+      },
+      {
+        "question": "The \"Nucleolus,\" located inside the nucleus, is responsible for the synthesis of which cellular components?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Lipids and steroids",
+          "Carbohydrates",
+          "Ribosomal subunits (for ribosomes)",
+          "DNA"
+        ],
+        "correctAnswer": "Ribosomal subunits (for ribosomes)"
+      },
+      {
+        "question": "The \"Smooth Endoplasmic Reticulum (SER)\" lacks ribosomes and performs which primary function related to toxins?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Genetic transcription",
+          "Detoxification of chemicals",
+          "Energy generation",
+          "Protein export"
+        ],
+        "correctAnswer": "Detoxification of chemicals"
+      },
+      {
+        "question": "The \"Golgi Apparatus\" is composed of a stack of flattened membranous sacs called:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Cristae",
+          "Thylakoids",
+          "Cisternae",
+          "Vacuoles"
+        ],
+        "correctAnswer": "Cisternae"
+      },
+      {
+        "question": "Besides breaking down waste, \"Lysosomes\" are crucial for maintaining cell health by recycling:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Old organelles",
+          "Fresh nutrients",
+          "New DNA",
+          "Solar energy"
+        ],
+        "correctAnswer": "Old organelles"
+      },
+      {
+        "question": "Plant cells rely on a large central \"Vacuole\" for maintaining cell structure and rigidity through which process?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Photosynthesis",
+          "Turgor pressure",
+          "Cellular respiration",
+          "Genetic replication"
+        ],
+        "correctAnswer": "Turgor pressure"
+      },
+      {
+        "question": "The \"Mitochondria\" contain their own DNA and replicate independently, a fact that supports which widely accepted evolutionary theory?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Fluid Mosaic Model",
+          "Germ Theory",
+          "Endosymbiotic Theory",
+          "Mendel's Laws"
+        ],
+        "correctAnswer": "Endosymbiotic Theory"
+      },
+      {
+        "question": "What is the primary product of \"Chloroplasts\" using solar energy, water, and carbon dioxide?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Proteins",
+          "ATP (Energy)",
+          "Carbohydrates (sugars)",
+          "Lipids"
+        ],
+        "correctAnswer": "Carbohydrates (sugars)"
+      },
+      {
+        "question": "Which type of \"Plastids\" is specialized for the storage of starches, proteins, or lipids in plant parts like seeds?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Chloroplasts",
+          "Chromoplasts",
+          "Leucoplasts",
+          "Amyloplasts (a type of Leucoplast)"
+        ],
+        "correctAnswer": "Leucoplasts"
+      },
+      {
+        "question": "Which component of the \"Cytoskeleton\" are described as the thickest filaments, composed of tubulin protein?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Microfilaments",
+          "Intermediate filaments",
+          "Microtubules",
+          "Actin fibers"
+        ],
+        "correctAnswer": "Microtubules"
+      },
+      {
+        "question": "In the \"Fluid Mosaic Model,\" the \"hydrophilic\" regions of the phospholipid bilayer are oriented towards the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Center of the membrane",
+          "Aqueous (watery) environment inside and outside the cell",
+          "Cholesterol molecules",
+          "Cytoskeleton"
+        ],
+        "correctAnswer": "Aqueous (watery) environment inside and outside the cell"
+      },
+      {
+        "question": "Besides being composed of cellulose, the \"Cell Wall\" provides \"rigidity\" which is a key difference when comparing plant cells to:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Bacterial cells",
+          "Fungal cells",
+          "Animal cells",
+          "Protist cells"
+        ],
+        "correctAnswer": "Animal cells"
+      },
+      {
+        "question": "The \"Cytosol\" is the solution that fills the cell and is where many metabolic reactions of the cell take place. It is a part of the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Nucleus",
+          "Endomembrane system",
+          "Cytoplasm",
+          "Cell wall"
+        ],
+        "correctAnswer": "Cytoplasm"
+      },
+      {
+        "question": "The \"Capsule\" that surrounds some prokaryotic cells gives protection and helps the cell to:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Synthesize protein",
+          "Store DNA",
+          "Attach to surfaces",
+          "Undergo mitosis"
+        ],
+        "correctAnswer": "Attach to surfaces"
+      },
+      {
+        "question": "The structure used by some prokaryotic cells for movement/locomotion is the:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Pili",
+          "Capsule",
+          "Flagellum",
+          "Ribosome"
+        ],
+        "correctAnswer": "Flagellum"
+      },
+      {
+        "question": "Which type of cell, depicted in the 'Types of Cells' diagram, is characterized by its irregular shape and ability to engulf foreign invaders (phagocytosis)?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Sperm cell",
+          "Red blood cell",
+          "Nerve cell",
+          "Monocyte (a type of White blood cell)"
+        ],
+        "correctAnswer": "Monocyte (a type of White blood cell)"
+      },
+      {
+        "question": "What is the typical size of an \"atom,\" according to the logarithmic scale in the handout?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "0.1 nm",
+          "10 nm",
+          "1 µm",
+          "10 mm"
+        ],
+        "correctAnswer": "0.1 nm"
+      },
+      {
+        "question": "The \"Organ\" level of organization immediately precedes the formation of a(n):",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Organ system",
+          "Tissue",
+          "Cell",
+          "Organism"
+        ],
+        "correctAnswer": "Organ system"
+      },
+      {
+        "question": "Which of the following eukaryotic organelles is primarily involved in \"lipid synthesis\" and \"steroid hormone production\"?",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Rough ER",
+          "Smooth ER",
+          "Mitochondria",
+          "Golgi Apparatus"
+        ],
+        "correctAnswer": "Smooth ER"
+      },
+      {
+        "question": "The term used to describe the DNA when it is loosely distributed within the nucleus is:",
+        "type": "MULTIPLE_CHOICE",
+        "points": 1,
+        "choices": [
+          "Chromosome",
+          "Plasmid",
+          "Ribosome",
+          "Chromatin"
+        ],
+        "correctAnswer": "Chromatin"
+      }
+    ]
+}
