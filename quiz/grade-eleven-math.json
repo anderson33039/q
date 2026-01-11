@@ -1,0 +1,1205 @@
+{
+  "title": "Grade 11 Mathematics Quiz - Set 1 of 4",
+  "questions": [
+    {
+      "question": "In a right triangle, which trigonometric ratio represents the opposite side divided by the hypotenuse?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Sine",
+        "Cosine",
+        "Tangent",
+        "Secant"
+      ],
+      "correctAnswer": "Sine"
+    },
+    {
+      "question": "Which of the following is the reciprocal of the Cosine ratio?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Cosecant",
+        "Secant",
+        "Cotangent",
+        "Sine"
+      ],
+      "correctAnswer": "Secant"
+    },
+    {
+      "question": "Using the Pythagorean theorem, find the hypotenuse of a right triangle with legs of 3 cm and 4 cm.",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "5 cm",
+        "7 cm",
+        "25 cm",
+        "6 cm"
+      ],
+      "correctAnswer": "5 cm"
+    },
+    {
+      "question": "If the hypotenuse of a right triangle is 13 and one leg is 5, what is the length of the other leg?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "18"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "In a 45-45-90 special right triangle, if the leg length is 5, what is the length of the hypotenuse?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "5",
+        "10",
+        "5 * sqrt(2)",
+        "5 * sqrt(3)"
+      ],
+      "correctAnswer": "5 * sqrt(2)"
+    },
+    {
+      "question": "In a 30-60-90 special right triangle, if the hypotenuse is 10, what is the length of the shorter leg?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "5",
+        "5 * sqrt(3)",
+        "20",
+        "7.5"
+      ],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "The angle formed by a horizontal line and the line of sight to an object above the horizontal line is called the:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Angle of Depression",
+        "Angle of Elevation",
+        "Oblique Angle",
+        "Reflex Angle"
+      ],
+      "correctAnswer": "Angle of Elevation"
+    },
+    {
+      "question": "A man looks down from a cliff at a boat. The angle between his horizontal line of sight and the boat is the:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Angle of Elevation",
+        "Angle of Depression",
+        "Right Angle",
+        "Vertical Angle"
+      ],
+      "correctAnswer": "Angle of Depression"
+    },
+    {
+      "question": "Which law is most appropriate to solve an oblique triangle when two angles and one side (AAS) are known?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Law of Cosines",
+        "Pythagorean Theorem",
+        "Law of Sines",
+        "Tangent Rule"
+      ],
+      "correctAnswer": "Law of Sines"
+    },
+    {
+      "question": "To find the missing side of an oblique triangle when you know two sides and the included angle (SAS), you should use:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Law of Sines",
+        "Law of Cosines",
+        "SOH-CAH-TOA",
+        "Mean Value Theorem"
+      ],
+      "correctAnswer": "Law of Cosines"
+    },
+    {
+      "question": "A residential bedroom measures 4 meters by 5 meters. What is the total floor area?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "9 square meters",
+        "18 square meters",
+        "20 square meters",
+        "25 square meters"
+      ],
+      "correctAnswer": "20 square meters"
+    },
+    {
+      "question": "If a residential lot is rectangular and has a perimeter of 60 meters with a width of 10 meters, what is its length?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "20 meters",
+        "30 meters",
+        "50 meters",
+        "40 meters"
+      ],
+      "correctAnswer": "20 meters"
+    },
+    {
+      "question": "What is the mean of the following ungrouped data set: 10, 15, 20, 25, 30?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "15",
+        "20",
+        "25",
+        "100"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "question": "What is the median of the data set: 5, 8, 3, 10, 1?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "3",
+        "8",
+        "5",
+        "5.4"
+      ],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "In the data set {2, 4, 4, 4, 6, 8, 8}, what is the mode?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "4",
+        "8",
+        "6",
+        "4 and 8"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Which measure of central tendency is calculated by multiplying each value by its corresponding weight before averaging?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Arithmetic Mean",
+        "Median",
+        "Weighted Mean",
+        "Geometric Mean"
+      ],
+      "correctAnswer": "Weighted Mean"
+    },
+    {
+      "question": "The formula z = (x - mean) / standard_deviation is used to calculate what?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Variance",
+        "Z-score",
+        "Raw score",
+        "Range"
+      ],
+      "correctAnswer": "Z-score"
+    },
+    {
+      "question": "If a student has a raw score of 85, the class mean is 80, and the standard deviation is 5, what is the Z-score?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "1",
+        "5",
+        "-1",
+        "0.5"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "In a frequency distribution, what does the term ''frequency'' represent?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "The average value",
+        "The number of times a data value occurs",
+        "The difference between high and low scores",
+        "The middle point of the data"
+      ],
+      "correctAnswer": "The number of times a data value occurs"
+    },
+    {
+      "question": "What is the range of the data set: 12, 5, 18, 20, 2?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "18",
+        "20",
+        "15",
+        "22"
+      ],
+      "correctAnswer": "18"
+    },
+    {
+      "question": "Which trigonometric ratio is defined as Adjacent divided by Opposite?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Tangent",
+        "Cotangent",
+        "Cosecant",
+        "Sine"
+      ],
+      "correctAnswer": "Cotangent"
+    },
+    {
+      "question": "In an oblique triangle, if sides a=5, b=7, and c=10, which law can be used to find angle A?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Law of Sines",
+        "Law of Cosines",
+        "Pythagorean Theorem",
+        "Tangent Ratio"
+      ],
+      "correctAnswer": "Law of Cosines"
+    },
+    {
+      "question": "In a 30-60-90 triangle, if the shorter leg is x, the longer leg is:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "x * sqrt(2)",
+        "x * sqrt(3)",
+        "2x",
+        "x / 2"
+      ],
+      "correctAnswer": "x * sqrt(3)"
+    },
+    {
+      "question": "If you are standing 30 meters from a building and the angle of elevation to the top is 45 degrees, how tall is the building?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "15 meters",
+        "30 meters",
+        "30 * sqrt(3) meters",
+        "60 meters"
+      ],
+      "correctAnswer": "30 meters"
+    },
+    {
+      "question": "Which of the following is true for a Z-score of zero?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "The raw score is equal to the mean",
+        "The raw score is zero",
+        "The standard deviation is zero",
+        "The raw score is the maximum value"
+      ],
+      "correctAnswer": "The raw score is equal to the mean"
+    },
+    {
+      "question": "Which trigonometric ratio is defined as the ratio of the hypotenuse to the opposite side?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Sine",
+        "Secant",
+        "Cosecant",
+        "Cotangent"
+      ],
+      "correctAnswer": "Cosecant"
+    },
+    {
+      "question": "In a right triangle, if the hypotenuse is 17 and one leg is 8, what is the length of the missing leg?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "9",
+        "12",
+        "15",
+        "13"
+      ],
+      "correctAnswer": "15"
+    },
+    {
+      "question": "What is the value of Tangent 45 degrees?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "0",
+        "1",
+        "0.5",
+        "sqrt(2)"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "In a 30-60-90 triangle, if the longer leg is 9 * sqrt(3), what is the length of the shorter leg?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "9",
+        "18",
+        "4.5",
+        "27"
+      ],
+      "correctAnswer": "9"
+    },
+    {
+      "question": "Which of these represents a Pythagorean Triple?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "3, 4, 6",
+        "7, 24, 25",
+        "5, 10, 12",
+        "8, 15, 16"
+      ],
+      "correctAnswer": "7, 24, 25"
+    },
+    {
+      "question": "In an oblique triangle, if you are given all three sides (SSS), which formula should you use first to find an angle?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Law of Sines",
+        "Law of Cosines",
+        "Pythagorean Theorem",
+        "Heron's Formula"
+      ],
+      "correctAnswer": "Law of Cosines"
+    },
+    {
+      "question": "An observer on a 50-meter lighthouse sees a ship at an angle of depression of 30 degrees. How far is the ship from the base of the lighthouse?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "50 * sqrt(3) meters",
+        "50 / sqrt(3) meters",
+        "100 meters",
+        "25 meters"
+      ],
+      "correctAnswer": "50 * sqrt(3) meters"
+    },
+    {
+      "question": "A living room has a floor area of 35 square meters. If the length is 7 meters, what is the width?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "5 meters",
+        "6 meters",
+        "7 meters",
+        "10 meters"
+      ],
+      "correctAnswer": "5 meters"
+    },
+    {
+      "question": "Find the mean of the following scores: 82, 85, 88, 90, 95.",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "87",
+        "88",
+        "89",
+        "90"
+      ],
+      "correctAnswer": "88"
+    },
+    {
+      "question": "What is the median of this data set: 12, 15, 12, 19, 22, 25?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "12",
+        "17",
+        "19",
+        "15"
+      ],
+      "correctAnswer": "17"
+    },
+    {
+      "question": "If a student's grade is 90% and it accounts for 40% of the final grade, and another grade is 80% accounting for 60%, what is the weighted mean?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "85%",
+        "84%",
+        "86%",
+        "82%"
+      ],
+      "correctAnswer": "84%"
+    },
+    {
+      "question": "A Z-score of -2.5 indicates that the raw score is:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "2.5 units above the mean",
+        "2.5 standard deviations below the mean",
+        "2.5 units below the mean",
+        "2.5 standard deviations above the mean"
+      ],
+      "correctAnswer": "2.5 standard deviations below the mean"
+    },
+    {
+      "question": "What is the raw score if the Z-score is 2, the mean is 50, and the standard deviation is 10?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "60",
+        "70",
+        "40",
+        "52"
+      ],
+      "correctAnswer": "70"
+    },
+    {
+      "question": "In a frequency distribution, the midpoint of a class interval is known as the:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Class Mark",
+        "Class Limit",
+        "Class Boundary",
+        "Range"
+      ],
+      "correctAnswer": "Class Mark"
+    },
+    {
+      "question": "If a data set has two modes, it is described as:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Unimodal",
+        "Bimodal",
+        "Multimodal",
+        "Non-modal"
+      ],
+      "correctAnswer": "Bimodal"
+    },
+    {
+      "question": "In a 45-45-90 triangle, if the hypotenuse is 10, what is the length of each leg?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "5",
+        "5 * sqrt(2)",
+        "10 * sqrt(2)",
+        "2.5"
+      ],
+      "correctAnswer": "5 * sqrt(2)"
+    },
+    {
+      "question": "Which formula represents the Law of Sines?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "a/sinA = b/sinB = c/sinC",
+        "a^2 = b^2 + c^2 - 2bc cosA",
+        "sin^2 A + cos^2 A = 1",
+        "tanA = opp/adj"
+      ],
+      "correctAnswer": "a/sinA = b/sinB = c/sinC"
+    },
+    {
+      "question": "What happens to the mean if a very high outlier is added to a small data set?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "It decreases",
+        "It stays the same",
+        "It increases",
+        "It becomes zero"
+      ],
+      "correctAnswer": "It increases"
+    },
+    {
+      "question": "A residential kitchen is 3m by 4m. If tiles cost 500 per square meter, how much will the tiling cost?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "3500",
+        "6000",
+        "7000",
+        "12000"
+      ],
+      "correctAnswer": "6000"
+    },
+    {
+      "question": "The sum of the relative frequencies in a frequency distribution table must always equal:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "0",
+        "0.5",
+        "1",
+        "100"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Which ratio is the reciprocal of the Tangent ratio?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Sine",
+        "Cosine",
+        "Cotangent",
+        "Secant"
+      ],
+      "correctAnswer": "Cotangent"
+    },
+    {
+      "question": "In a right triangle, the side opposite the 30-degree angle is always:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Half the hypotenuse",
+        "Twice the hypotenuse",
+        "Equal to the other leg",
+        "sqrt(3) times the hypotenuse"
+      ],
+      "correctAnswer": "Half the hypotenuse"
+    },
+    {
+      "question": "If the Law of Cosines is written as c^2 = a^2 + b^2 - 2ab cos(C), what is cos(C) if the triangle is a right triangle with angle C = 90 degrees?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "1",
+        "0",
+        "-1",
+        "0.5"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "question": "Which measure of central tendency is the most frequent value in a data set?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Variance"
+      ],
+      "correctAnswer": "Mode"
+    },
+    {
+      "question": "How is the range of a data set calculated?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Sum of all values divided by count",
+        "The middle value",
+        "Highest value minus lowest value",
+        "The square of the standard deviation"
+      ],
+      "correctAnswer": "Highest value minus lowest value"
+    },
+    {
+      "question": "Which trigonometric ratio is the ratio of the hypotenuse to the adjacent side?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Sine",
+        "Secant",
+        "Cosecant",
+        "Tangent"
+      ],
+      "correctAnswer": "Secant"
+    },
+    {
+      "question": "What is the value of Secant 60 degrees?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "1",
+        "2",
+        "0.5",
+        "sqrt(2)"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "In a right triangle, if the legs are 9 and 40, what is the length of the hypotenuse?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "41",
+        "49",
+        "31",
+        "50"
+      ],
+      "correctAnswer": "41"
+    },
+    {
+      "question": "Which of the following sets of numbers forms a Pythagorean triple?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "10, 24, 26",
+        "5, 6, 7",
+        "1, 2, 3",
+        "10, 15, 20"
+      ],
+      "correctAnswer": "10, 24, 26"
+    },
+    {
+      "question": "In a 30-60-90 triangle, if the hypotenuse is 12, what is the length of the side opposite the 60-degree angle?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "6",
+        "12 * sqrt(3)",
+        "6 * sqrt(3)",
+        "6 * sqrt(2)"
+      ],
+      "correctAnswer": "6 * sqrt(3)"
+    },
+    {
+      "question": "In a 45-45-90 triangle, if the hypotenuse is 8, what is the length of one leg?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "4",
+        "4 * sqrt(2)",
+        "8 * sqrt(2)",
+        "16"
+      ],
+      "correctAnswer": "4 * sqrt(2)"
+    },
+    {
+      "question": "The angle of elevation to the top of a tree is 30 degrees from a point 10 meters away. How tall is the tree?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "10 * sqrt(3) meters",
+        "5 meters",
+        "10 / sqrt(3) meters",
+        "20 meters"
+      ],
+      "correctAnswer": "10 / sqrt(3) meters"
+    },
+    {
+      "question": "An airplane is at an altitude of 1000m. The pilot sees a runway at an angle of depression of 20 degrees. Which ratio helps find the horizontal distance?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Sine",
+        "Cosine",
+        "Tangent",
+        "Secant"
+      ],
+      "correctAnswer": "Tangent"
+    },
+    {
+      "question": "In an oblique triangle, if you have two sides and an angle opposite one of them (SSA), this is known as the:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Law of Cosines Case",
+        "Ambiguous Case",
+        "Pythagorean Case",
+        "Equilateral Case"
+      ],
+      "correctAnswer": "Ambiguous Case"
+    },
+    {
+      "question": "Which formula is used to find angle A if sides a, b, and c are given in an oblique triangle?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "cos A = (b^2 + c^2 - a^2) / 2bc",
+        "sin A = (b^2 + c^2 - a^2) / 2bc",
+        "cos A = (a^2 + b^2 - c^2) / 2ab",
+        "tan A = opp / adj"
+      ],
+      "correctAnswer": "cos A = (b^2 + c^2 - a^2) / 2bc"
+    },
+    {
+      "question": "A room has a ceiling height of 3 meters and a floor area of 25 square meters. What is the volume of the room?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "28 cubic meters",
+        "75 cubic meters",
+        "50 cubic meters",
+        "100 cubic meters"
+      ],
+      "correctAnswer": "75 cubic meters"
+    },
+    {
+      "question": "If a wall is 4 meters long and 3 meters high, how many 1m x 1m square panels are needed to cover it?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "7",
+        "12",
+        "14",
+        "24"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "What is the mean of the data set: 4, 8, 12, 16, 20?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Find the median of the following ungrouped data: 7, 2, 9, 4, 11, 5.",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "4",
+        "6",
+        "9",
+        "5.5"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "In a data set with values 5, 5, 10, 10, 15, which of the following is true?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "The mode is 5",
+        "The mode is 10",
+        "The set is bimodal",
+        "There is no mode"
+      ],
+      "correctAnswer": "The set is bimodal"
+    },
+    {
+      "question": "A student scores 80, 85, and 90 on three tests. If the last test is weighted double, what is the weighted mean?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "85",
+        "86.25",
+        "87.5",
+        "88"
+      ],
+      "correctAnswer": "86.25"
+    },
+    {
+      "question": "A Z-score of +1.5 means the raw score is:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "1.5 points above the mean",
+        "1.5 standard deviations above the mean",
+        "1.5 times the mean",
+        "1.5 points below the mean"
+      ],
+      "correctAnswer": "1.5 standard deviations above the mean"
+    },
+    {
+      "question": "If the mean is 100, standard deviation is 15, and the raw score is 70, what is the Z-score?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "2",
+        "-2",
+        "1.5",
+        "-1.5"
+      ],
+      "correctAnswer": "-2"
+    },
+    {
+      "question": "In a frequency distribution, the sum of all frequencies equals:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "The mean",
+        "The range",
+        "The total number of data points (n)",
+        "The median class"
+      ],
+      "correctAnswer": "The total number of data points (n)"
+    },
+    {
+      "question": "Which class interval does the value 15 fall into if the intervals are 0-9, 10-19, and 20-29?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "0-9",
+        "10-19",
+        "20-29",
+        "None"
+      ],
+      "correctAnswer": "10-19"
+    },
+    {
+      "question": "What is the identity for sin^2(theta) + cos^2(theta)?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "0",
+        "1",
+        "tan^2(theta)",
+        "-1"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "If you are given three angles of a triangle (AAA), why can you not solve for the side lengths?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Infinite similar triangles exist",
+        "The Law of Sines only works for right triangles",
+        "The Law of Cosines requires at least one angle",
+        "The sum of angles is not 180"
+      ],
+      "correctAnswer": "Infinite similar triangles exist"
+    },
+    {
+      "question": "A residential lot is 15m by 20m. What is the diagonal distance from one corner to the opposite corner?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "25m",
+        "35m",
+        "30m",
+        "400m"
+      ],
+      "correctAnswer": "25m"
+    },
+    {
+      "question": "Which measure of central tendency is the most useful when data has extreme outliers?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Weighted Mean"
+      ],
+      "correctAnswer": "Median"
+    },
+    {
+      "question": "In a 30-60-90 triangle, the ratio of the sides (shorter : longer : hypotenuse) is:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "1 : 1 : sqrt(2)",
+        "1 : sqrt(3) : 2",
+        "1 : 2 : 3",
+        "sqrt(2) : sqrt(2) : 2"
+      ],
+      "correctAnswer": "1 : sqrt(3) : 2"
+    },
+    {
+      "question": "Which trigonometric ratio is equal to the Sine of an angle divided by the Cosine of the same angle?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Tangent",
+        "Cotangent",
+        "Secant",
+        "Cosecant"
+      ],
+      "correctAnswer": "Tangent"
+    },
+    {
+      "question": "In a right triangle, if a = 7 and c (hypotenuse) = 25, what is the length of side b?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "24",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "Which of the following describes an oblique triangle?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "A triangle with one 90-degree angle",
+        "A triangle with no 90-degree angle",
+        "A triangle with all equal sides",
+        "A triangle with two right angles"
+      ],
+      "correctAnswer": "A triangle with no 90-degree angle"
+    },
+    {
+      "question": "To solve an oblique triangle using the Law of Sines, which piece of information is strictly required?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "All three sides",
+        "At least one side and its opposite angle",
+        "Two sides and the included angle",
+        "The area of the triangle"
+      ],
+      "correctAnswer": "At least one side and its opposite angle"
+    },
+    {
+      "question": "A ladder leans against a wall at an angle of elevation of 60 degrees. If the foot of the ladder is 2 meters from the wall, how long is the ladder?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "2 meters",
+        "4 meters",
+        "2 * sqrt(3) meters",
+        "1 meter"
+      ],
+      "correctAnswer": "4 meters"
+    },
+    {
+      "question": "From the top of a 100m cliff, the angle of depression to a car is 45 degrees. How far is the car from the base of the cliff?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "50 meters",
+        "100 meters",
+        "100 * sqrt(2) meters",
+        "200 meters"
+      ],
+      "correctAnswer": "100 meters"
+    },
+    {
+      "question": "In a 30-60-90 triangle, if the shorter leg is 5, what is the length of the longer leg?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "5 * sqrt(2)",
+        "10",
+        "5 * sqrt(3)",
+        "2.5"
+      ],
+      "correctAnswer": "5 * sqrt(3)"
+    },
+    {
+      "question": "In a 45-45-90 triangle, what is the ratio of a leg to the hypotenuse?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "1 : 2",
+        "1 : sqrt(2)",
+        "1 : sqrt(3)",
+        "2 : 1"
+      ],
+      "correctAnswer": "1 : sqrt(2)"
+    },
+    {
+      "question": "A rectangular residential lot has dimensions 12m by 15m. What is the total perimeter of the lot?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "27 meters",
+        "54 meters",
+        "180 meters",
+        "45 meters"
+      ],
+      "correctAnswer": "54 meters"
+    },
+    {
+      "question": "If the floor area of a square bedroom is 16 square meters, what is the length of one wall?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "4 meters",
+        "8 meters",
+        "2 meters",
+        "16 meters"
+      ],
+      "correctAnswer": "4 meters"
+    },
+    {
+      "question": "What is the mean of the scores: 10, 10, 20, 30, 30?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "15",
+        "20",
+        "25",
+        "100"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "question": "Find the median of the data: 5, 12, 3, 18, 10, 22.",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "15"
+      ],
+      "correctAnswer": "11"
+    },
+    {
+      "question": "A data set has values 2, 2, 3, 4, 4, 5. How would you describe the mode?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Unimodal",
+        "Bimodal",
+        "Trimodal",
+        "No mode"
+      ],
+      "correctAnswer": "Bimodal"
+    },
+    {
+      "question": "A student's GPA is calculated using which statistical measure?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Arithmetic Mean",
+        "Weighted Mean",
+        "Median",
+        "Mode"
+      ],
+      "correctAnswer": "Weighted Mean"
+    },
+    {
+      "question": "Calculate the Z-score for a raw score of 50, given a mean of 60 and a standard deviation of 5.",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "2",
+        "-2",
+        "10",
+        "-10"
+      ],
+      "correctAnswer": "-2"
+    },
+    {
+      "question": "A raw score with a Z-score of 3 is considered:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Exactly at the average",
+        "Significantly above the average",
+        "Significantly below the average",
+        "A typical score"
+      ],
+      "correctAnswer": "Significantly above the average"
+    },
+    {
+      "question": "In a frequency distribution, the sum of all relative frequencies should be:",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "0.5",
+        "1.0",
+        "100",
+        "Variable"
+      ],
+      "correctAnswer": "1.0"
+    },
+    {
+      "question": "Which value is the lower class boundary of the interval 20-29?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "20",
+        "19.5",
+        "20.5",
+        "19"
+      ],
+      "correctAnswer": "19.5"
+    },
+    {
+      "question": "If every value in a data set is increased by 5, what happens to the mean?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "It stays the same",
+        "It increases by 5",
+        "It increases by 25",
+        "It is multiplied by 5"
+      ],
+      "correctAnswer": "It increases by 5"
+    },
+    {
+      "question": "The Law of Cosines is used to solve a triangle when which information is given?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "SAS or SSS",
+        "ASA or AAS",
+        "SSA",
+        "AAA"
+      ],
+      "correctAnswer": "SAS or SSS"
+    },
+    {
+      "question": "In a right triangle, which ratio is defined as Opposite/Adjacent?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "Sine",
+        "Cosine",
+        "Tangent",
+        "Secant"
+      ],
+      "correctAnswer": "Tangent"
+    },
+    {
+      "question": "Find the hypotenuse of a right triangle with legs of 8 and 15.",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "17",
+        "19",
+        "21",
+        "23"
+      ],
+      "correctAnswer": "17"
+    },
+    {
+      "question": "A living room floor is 6m by 6m. If a rug covers 20 square meters, how much floor area is left uncovered?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "16 square meters",
+        "26 square meters",
+        "36 square meters",
+        "4 square meters"
+      ],
+      "correctAnswer": "16 square meters"
+    },
+    {
+      "question": "What is the mode of the following data: 4, 7, 7, 7, 2, 4, 9?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "4",
+        "7",
+        "9",
+        "2"
+      ],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "In a frequency distribution table, what is the ''Cumulative Frequency''?",
+      "type": "MULTIPLE_CHOICE",
+      "points": 1,
+      "choices": [
+        "The average frequency",
+        "The sum of frequencies up to a certain point",
+        "The highest frequency in the set",
+        "The frequency divided by the total count"
+      ],
+      "correctAnswer": "The sum of frequencies up to a certain point"
+    }
+  ]
+}
