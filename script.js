@@ -11,6 +11,7 @@ let currentPart = 0;
 let parts = [];
 let answers = {};
 
+
 loadBtn.addEventListener("click", async () => {
   const file = quizSelect.value;
   if (!file) return alert("Please choose a quiz JSON file.");
