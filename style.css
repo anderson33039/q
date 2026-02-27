@@ -14,6 +14,7 @@ body {
   }
 }
 
+
 .container {
   /* Make the container fluid (95% of the viewport width) up to max-width */
   width: 95%; 
